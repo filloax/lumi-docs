@@ -8,9 +8,9 @@
 
 **Sylveon**
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.001.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.001.png)
 
-#700: Sylveon
+# 700: Sylveon
 
 Stats: 95 HP/65 Atk/65 Def/110 SpA/130 SpD/60 Spe/525 BST
 
@@ -158,9 +158,9 @@ Stored Power
 
 **Alolan Forms**
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.002.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.002.png)
 
-#019-A: Rattata
+# 019-A: Rattata
 
 Stats: 30 HP/56 Atk/35 Def/25 SpA/35 SpD/72 Spe/253 BST
 
@@ -314,9 +314,9 @@ Switcheroo
 
 Uproar
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.003.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.003.png)
 
-#020-A: Raticate
+# 020-A: Raticate
 
 Stats: 75>*80 HP*/71>*78 Atk*/70>*80 Def*/40 SpA/80>*90 SpD*/77>*82 Spe*/413>*450 BST*
 
@@ -482,9 +482,9 @@ Switcheroo
 
 Uproar
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.004.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.004.png)
 
-#026-A: Raichu
+# 026-A: Raichu
 
 Stats: 60 HP/85 Atk/50 Def/95>*105 SpA*/85 SpD/110 Spe/485>*495 BST*
 
@@ -653,9 +653,9 @@ Volt Tackle
 
 Double Slap
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.005.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.005.png)
 
-#027-A: Sandshrew
+# 027-A: Sandshrew
 
 Stats: 50 HP/75 Atk/90 Def/10 SpA/35 SpD/40 Spe/300 BST
 
@@ -819,9 +819,9 @@ Aurora Veil
 
 Bulldoze
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.006.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.006.png)
 
-#028-A: Sandslash
+# 028-A: Sandslash
 
 Stats: 75 HP/100 Atk/120 Def/25 SpA/65 SpD/65 Spe/450 BST
 
@@ -993,9 +993,9 @@ Aurora Veil
 
 Bulldoze
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.007.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.007.png)
 
-#037-A: Vulpix
+# 037-A: Vulpix
 
 Stats: 38 HP/41 Atk/40 Def/50 SpA/65 SpD/65 Spe/299 BST
 
@@ -1135,9 +1135,9 @@ Spite
 
 Tail Slap
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.008.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.008.png)
 
-#038-A: Ninetales
+# 038-A: Ninetales
 
 Stats: 73 HP/67 Atk/75 Def/81 SpA/100 SpD/109 Spe/505 BST
 
@@ -1282,9 +1282,9 @@ Spite
 
 Tail Slap
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.009.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.009.png)
 
-#050-A: Diglett
+# 050-A: Diglett
 
 Stats: 10 HP/55 Atk/30 Def/35 SpA/45 SpD/90 Spe/265 BST
 
@@ -1417,9 +1417,9 @@ Mud Bomb
 
 Feint Attack
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.010.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.010.png)
 
-#051-A: Dugtrio
+# 051-A: Dugtrio
 
 Stats: 35 HP/100 Atk/60 Def/50 SpA/70 SpD/110 Spe/425 BST
 
@@ -1563,9 +1563,9 @@ Mud Bomb
 
 Feint Attack
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.011.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.011.png)
 
-#052-A: Meowth
+# 052-A: Meowth
 
 Stats: 40 HP/35 Atk/35 Def/50 SpA/40 SpD/90 Spe/290 BST
 
@@ -1711,9 +1711,9 @@ Odor Sleuth
 
 Foul Play
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.012.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.012.png)
 
-#053-A: Persian
+# 053-A: Persian
 
 Stats: 65 HP/60>*70 Atk*/60 Def/75>*90 SpA*/65 SpD/115 Spe/440>*465 BST*
 
@@ -1876,9 +1876,9 @@ Odor Sleuth
 
 Foul Play
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.013.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.013.png)
 
-#074-A: Geodude
+# 074-A: Geodude
 
 Stats: 40 HP/80 Atk/100 Def/30 SpA/30 SpD/20 Spe/300 BST
 
@@ -2024,9 +2024,9 @@ Counter
 
 Magnet Rise
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.014.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.014.png)
 
-#075-A: Graveler
+# 075-A: Graveler
 
 Stats: 55 HP/95 Atk/115 Def/45 SpA/45 SpD/35 Spe/390 BST
 
@@ -2177,9 +2177,9 @@ Counter
 
 Magnet Rise
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.015.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.015.png)
 
-#076-A: Golem
+# 076-A: Golem
 
 Stats: 80 HP/120 Atk/130 Def/55 SpA/65 SpD/45 Spe/495 BST
 
@@ -2330,9 +2330,9 @@ Counter
 
 Magnet Rise
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.016.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.016.png)
 
-#088-A: Grimer
+# 088-A: Grimer
 
 Stats: 80 HP/80 Atk/50 Def/40 SpA/50 SpD/25 Spe/325 BST
 
@@ -2485,9 +2485,9 @@ Power-Up Punch
 
 Assurance
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.017.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.017.png)
 
-#089-A: Muk
+# 089-A: Muk
 
 Stats: 105 HP/105 Atk/75 Def/65 SpA/100 SpD/50 Spe/500 BST
 
@@ -2649,9 +2649,9 @@ Power-Up Punch
 Assurance
 
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.018.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.018.png)
 
-#103-A: Exeggutor
+# 103-A: Exeggutor
 
 Stats: 95 HP/105>*125 Atk*/85 Def/125>*105 SpA*/75 SpD/45 Spe/530 BST
 
@@ -2811,9 +2811,9 @@ Power Swap
 
 Grassy Terrain
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.019.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.019.png)
 
-#105-A: Marowak
+# 105-A: Marowak
 
 Stats: 60 HP/80 Atk/110 Def/50 SpA/80 SpD/45 Spe/425 BST
 
@@ -2980,9 +2980,9 @@ Iron Head
 
 **Galarian Forms**
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.020.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.020.png)
 
-#052-G: Meowth
+# 052-G: Meowth
 
 Stats: 50 HP/65 Atk/55 Def/40 SpA/40 SpD/40 Spe/290 BST
 
@@ -3122,7 +3122,7 @@ Spite
 
 Gunk Shot
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.021.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.021.png)
 
 **#863: Perrserker**
 
@@ -3280,9 +3280,9 @@ Spite
 
 Gunk Shot
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.022.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.022.png)
 
-#077-G: Ponyta
+# 077-G: Ponyta
 
 Stats: 50 HP/85 Atk/55 Def/65 SpA/65 SpD/90 Spe/410 BST
 
@@ -3378,9 +3378,9 @@ Thrash
 
 High Horsepower
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.023.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.023.png)
 
-#078-G: Rapidash
+# 078-G: Rapidash
 
 Stats: 65 HP/100>*90 Atk*/70 Def/80>*90 SpA*/80 SpD/105 Spe/500 BST
 
@@ -3511,9 +3511,9 @@ Thrash
 
 High Horsepower
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.024.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.024.png)
 
-#079-G: Slowpoke
+# 079-G: Slowpoke
 
 Stats: 90 HP/65 Atk/65 Def/40 SpA/40 SpD/15 Spe/315 BST
 
@@ -3670,9 +3670,9 @@ Block
 
 Stomp
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.025.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.025.png)
 
-#080-G: Slowbro
+# 080-G: Slowbro
 
 Stats: 95 HP/100 Atk/95 Def/100 SpA/70 SpD/30 Spe/490 BST
 
@@ -3836,9 +3836,9 @@ Block
 
 Stomp
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.026.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.026.png)
 
-#198-G: Slowking
+# 198-G: Slowking
 
 Stats: 95 HP/65 Atk/80 Def/110 SpA/110 SpD/30 Spe/490 BST
 
@@ -4001,9 +4001,9 @@ Block
 
 Stomp
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.027.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.027.png)
 
-#083-G: Farfetch’d
+# 083-G: Farfetch’d
 
 Stats: 52 HP/95 Atk/55 Def/58 SpA/62 SpD/55 Spe/377 BST
 
@@ -4146,9 +4146,9 @@ Simple Beam
 
 Sky Attack
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.028.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.028.png)
 
-#865: Sirfetch’d
+# 865: Sirfetch’d
 
 Stats: 62 HP/135 Atk/95 Def/68>*60 SpA*/82>*90 SpD*/65 Spe/507 BST
 
@@ -4299,9 +4299,9 @@ Simple Beam
 
 Sky Attack
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.029.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.029.png)
 
-#110-G: Weezing
+# 110-G: Weezing
 
 Stats: 65 HP/90>*80 Atk*/120 Def/85>*95 SpA*/70 SpD/60 Spe/490 BST
 
@@ -4469,9 +4469,9 @@ Toxic Spikes
 
 Venom Drench:
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.030.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.030.png)
 
-#122-G: Mr. Mime
+# 122-G: Mr. Mime
 
 Stats: 50 HP/65 Atk/65 Def/90 SpA/90 SpD/100 Spe/460 BST
 
@@ -4656,9 +4656,9 @@ Power Split
 
 Tickle
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.031.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.031.png)
 
-#866: Mr. Rime
+# 866: Mr. Rime
 
 Stats: 80 HP/85>*65 Atk*/75 Def/110 SpA/100 SpD/70>*100 Spe*/520>*530 BST*
 
@@ -4849,9 +4849,9 @@ Power Split
 
 Tickle
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.032.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.032.png)
 
-#144-G: Articuno
+# 144-G: Articuno
 
 Stats: 90 HP/85 Atk/85 Def/125 SpA/100 SpD/95 Spe/580 BST
 
@@ -4965,9 +4965,9 @@ TM97: Defog
 
 TM98: Rock Smash
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.033.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.033.png)
 
-#145-G: Zapdos
+# 145-G: Zapdos
 
 Stats: 90 HP/125 Atk/90 Def/85 SpA/90 SpD/100 Spe/580 BST
 
@@ -5078,9 +5078,9 @@ TM97: Defog
 
 TM98: Rock Smash
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.034.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.034.png)
 
-#146-G: Moltres
+# 146-G: Moltres
 
 Stats: 90 HP/85 Atk/90 Def/100 SpA/125 SpD/90 Spe/580 BST
 
@@ -5192,9 +5192,9 @@ TM97: Defog
 
 TM98: Rock Smash
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.035.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.035.png)
 
-#222-G: Corsola
+# 222-G: Corsola
 
 Stats: 60 HP/55 Atk/100 Def/65 SpA/100 SpD/30 Spe/410 BST
 
@@ -5367,9 +5367,9 @@ Liquidation
 
 Heal Bell
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.036.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.036.png)
 
-#864: Cursola
+# 864: Cursola
 
 Stats: 60 HP/95>*60 Atk*/50>*85 Def*/145 SpA/130 SpD/30 Spe/510 BST
 
@@ -5543,9 +5543,9 @@ Liquidation
 
 Heal Bell
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.037.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.037.png)
 
-#263-G: Zigzagoon
+# 263-G: Zigzagoon
 
 Stats: 38 HP/30 Atk/41 Def/30 SpA/41 SpD/60 Spe/240 BST
 
@@ -5675,9 +5675,9 @@ Parting Shot
 
 Quick Guard 
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.038.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.038.png)
 
-#264-G: Linoone
+# 264-G: Linoone
 
 Stats: 78 HP/70 Atk/61 Def/50 SpA/61 SpD/100 Spe/420 BST
 
@@ -5812,7 +5812,7 @@ Parting Shot
 
 Quick Guard 
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.039.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.039.png)
 
 **#862: Obstagoon**
 
@@ -5965,9 +5965,9 @@ Quick Guard
 
 **Hisuian Learnsets**
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.040.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.040.png)
 
-#058-H: Growlithe
+# 058-H: Growlithe
 
 Stats: 60 HP/75 Atk/45 Def/65 SpA/50 SpD/55 Spe/350 BST
 
@@ -6108,9 +6108,9 @@ Rock Slide
 
 Swift
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.041.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.041.png)
 
-#059-H: Arcanine
+# 059-H: Arcanine
 
 Stats: 95 HP/115>*120 Atk*/80>*85 Def*/95 SpA/80>*85 SpD*/90 Spe/555>*570* BST
 
@@ -6266,9 +6266,9 @@ Burn Up
 
 Swift
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.042.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.042.png)
 
-#100-H: Voltorb
+# 100-H: Voltorb
 
 Stats: 40 HP/30 Atk/50 Def/55 SpA/55 SpD/100 Spe/330 BST
 
@@ -6376,9 +6376,9 @@ TM90: Substitute
 
 Egg Moves:
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.043.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.043.png)
 
-#101-H: Electrode
+# 101-H: Electrode
 
 Stats: 60 HP/50 Atk/70 Def/80 SpA/80 SpD/150 Spe/490 BST
 
@@ -6489,9 +6489,9 @@ TM90: Substitute
 
 Egg Moves:
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.044.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.044.png)
 
-#157-H: Typhlosion
+# 157-H: Typhlosion
 
 Stats: 73 HP/84 Atk/78 Def/119>*120 SpA*/85 SpD/95 Spe/534> *535* *BST*
 
@@ -6680,9 +6680,9 @@ Swift
 
 Thunder Punch
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.045.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.045.png)
 
-#211-H: Qwilfish
+# 211-H: Qwilfish
 
 65 HP/95 Atk/85 Def/55 SpA/55 SpD/85 Spe/440 BST
 
@@ -6833,9 +6833,9 @@ Spikes
 
 Swift
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.046.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.046.png)
 
-#904: Overqwil
+# 904: Overqwil
 
 Stats: 85 HP/115 Atk/95 Def/65 SpA/65 SpD/85 Spe
 
@@ -6984,9 +6984,9 @@ Spikes
 
 Swift
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.047.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.047.png)
 
-#215-H: Sneasel
+# 215-H: Sneasel
 
 Stats: 55 HP/95 Atk/55 Def/35 SpA/75 SpD/115 Spe/430 BST
 
@@ -7144,9 +7144,9 @@ Foresight
 
 Sucker Punch
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.048.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.048.png)
 
-#903: Sneasler
+# 903: Sneasler
 
 Stats: 80 HP/130 Atk/60 Def/40 SpA/80 SpD/120 Spe/510 BST
 
@@ -7313,9 +7313,9 @@ Foresight
 
 Sucker Punch
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.049.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.049.png)
 
-#899: Wyrdeer
+# 899: Wyrdeer
 
 Stats: 103 HP/105 Atk/72 Def/105>*75 SpA*/75 SpD/65>*95 Spe*/525 BST
 
@@ -7467,9 +7467,9 @@ Charge Beam
 
 Swift
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.050.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.050.png)
 
-#900: Kleavor 
+# 900: Kleavor 
 
 Stats: 70 HP/135 Atk/95 Def/45 SpA/70 SpD/85 Spe/500 BST
 
@@ -7639,9 +7639,9 @@ Silver Wind
 
 Swift
 
-![](img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.051.png)
+![](../img/extra/Aspose.Words.93fc93ff-581c-4c3d-90ef-03a975ea107a.051.png)
 
-#901: Ursaluna
+# 901: Ursaluna
 
 Stats: 130 HP/140 Atk/105 Def/45 SpA/80 SpD/50 Spe/550 BST
 

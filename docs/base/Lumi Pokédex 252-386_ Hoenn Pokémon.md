@@ -11,7 +11,7 @@
 
 **Hoenn Pokemon**
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.001.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.001.png)
 
 **252-Treecko**
 
@@ -165,7 +165,7 @@ Grass Whistle
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.002.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.002.png)
 
 **253-Grovyle**
 
@@ -329,7 +329,7 @@ Grass Whistle
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.003.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.003.png)
 
 **254-Sceptile**
 
@@ -523,7 +523,7 @@ Grass Whistle
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.004.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.004.png)
 
 **255-Torchic**
 
@@ -657,7 +657,7 @@ Feather Dance
 
 Low Kick
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.005.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.005.png)
 
 **256-Combusken**
 
@@ -815,7 +815,7 @@ Feather Dance
 
 Low Kick
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.006.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.006.png)
 
 **257-Blaziken**
 
@@ -994,7 +994,7 @@ Feather Dance
 
 Low Kick
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.007.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.007.png)
 
 **258-Mudkip**
 
@@ -1140,7 +1140,7 @@ Liquidation
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.008.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.008.png)
 
 **259-Marshtomp**
 
@@ -1300,7 +1300,7 @@ Liquidation
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.009.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.009.png)
 
 **260-Swampert**
 
@@ -1476,7 +1476,7 @@ Liquidation
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.010.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.010.png)
 
 **261-Poochyena**
 
@@ -1602,7 +1602,7 @@ Thunder Fang
 
 Play Rough
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.011.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.011.png)
 
 **262-Mightyena**
 
@@ -1749,7 +1749,7 @@ Thunder Fang
 
 Play Rough
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.012.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.012.png)
 
 **263-Zigzagoon**
 
@@ -1883,7 +1883,7 @@ Helping Hand
 
 Mud-Slap
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.013.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.013.png)
 
 **264-Linoone**
 
@@ -2044,7 +2044,7 @@ Helping Hand
 
 Mud-Slap
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.014.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.014.png)
 
 **265-Wurmple**
 
@@ -2075,7 +2075,7 @@ TMs:
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.015.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.015.png)
 
 **266-Silcoon**
 
@@ -2105,7 +2105,7 @@ TMs:
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.016.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.016.png)
 
 **267-Beautifly**
 
@@ -2239,7 +2239,7 @@ TM97: Defog
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.017.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.017.png)
 
 **268-Cascoon**
 
@@ -2269,7 +2269,7 @@ TMs:
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.018.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.018.png)
 
 **269-Dustox**
 
@@ -2405,7 +2405,7 @@ TM97: Defog
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.019.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.019.png)
 
 **270-Lotad**
 
@@ -2528,7 +2528,7 @@ Flail
 
 Water Gun
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.020.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.020.png)
 
 **271-Lombre**
 
@@ -2677,7 +2677,7 @@ Flail
 
 Water Gun
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.021.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.021.png)
 
 **272-Ludicolo**
 
@@ -2837,7 +2837,7 @@ Flail
 
 Water Gun
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.022.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.022.png)
 
 **273-Seedot**
 
@@ -2963,7 +2963,7 @@ Grassy Terrain
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.023.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.023.png)
 
 **274-Nuzleaf**
 
@@ -3138,7 +3138,7 @@ Grassy Terrain
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.024.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.024.png)
 
 **275-Shiftry**
 
@@ -3323,7 +3323,7 @@ Grassy Terrain
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.025.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.025.png)
 
 **276-Taillow**
 
@@ -3428,7 +3428,7 @@ Boomburst
 
 Hurricane
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.026.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.026.png)
 
 **277-Swellow**
 
@@ -3543,7 +3543,7 @@ Boomburst
 
 Hurricane
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.027.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.027.png)
 
 **278-Wingull**
 
@@ -3672,7 +3672,7 @@ Agility
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.028.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.028.png)
 
 **279-Pelipper**
 
@@ -3835,7 +3835,7 @@ Agility
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.029.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.029.png)
 
 **280-Ralts**
 
@@ -3983,7 +3983,7 @@ Misty Terrain
 
 Ally Switch
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.030.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.030.png)
 
 **281-Kirlia**
 
@@ -4133,7 +4133,7 @@ Misty Terrain
 
 Ally Switch
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.031.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.031.png)
 
 **282-Gardevoir**
 
@@ -4299,7 +4299,7 @@ Misty Terrain
 
 Ally Switch
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.032.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.032.png)
 
 **283-Surskit**
 
@@ -4430,7 +4430,7 @@ Foresight
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.033.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.033.png)
 
 **284-Masquerain**
 
@@ -4601,7 +4601,7 @@ Foresight
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.034.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.034.png)
 
 **285-Shroomish**
 
@@ -4716,7 +4716,7 @@ Worry Seed
 
 Seed Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.035.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.035.png)
 
 **286-Breloom**
 
@@ -4871,7 +4871,7 @@ Worry Seed
 
 Seed Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.036.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.036.png)
 
 **287-Slakoth**
 
@@ -5010,7 +5010,7 @@ After You
 
 Tickle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.037.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.037.png)
 
 **288-Vigoroth**
 
@@ -5172,7 +5172,7 @@ After You
 
 Tickle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.038.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.038.png)
 
 **289-Slaking**
 
@@ -5348,7 +5348,7 @@ After You
 
 Tickle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.039.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.039.png)
 
 **290-Nincada**
 
@@ -5454,7 +5454,7 @@ Feint Attack
 
 Silver Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.040.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.040.png)
 
 **291-Ninjask**
 
@@ -5602,7 +5602,7 @@ Feint Attack
 
 Silver Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.041.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.041.png)
 
 **292-Shedinja**
 
@@ -5728,7 +5728,7 @@ Feint Attack
 
 Silver Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.042.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.042.png)
 
 **293-Whismur**
 
@@ -5853,7 +5853,7 @@ Snore
 
 Fake Tears
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.043.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.043.png)
 
 **294-Loudred**
 
@@ -6001,7 +6001,7 @@ Snore
 
 Fake Tears
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.044.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.044.png)
 
 **295-Exploud**
 
@@ -6171,7 +6171,7 @@ Snore
 
 Fake Tears
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.045.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.045.png)
 
 **296-Makuhita**
 
@@ -6311,7 +6311,7 @@ Foresight
 
 Feint Attack
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.046.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.046.png)
 
 **297-Hariyama**
 
@@ -6463,7 +6463,7 @@ Foresight
 
 Feint Attack
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.047.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.047.png)
 
 **298-Azurill**
 
@@ -6580,7 +6580,7 @@ Muddy Water
 
 Foresight
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.048.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.048.png)
 
 **299-Nosepass**
 
@@ -6709,7 +6709,7 @@ Wide Guard
 
 Magnitude
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.049.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.049.png)
 
 **300-Skitty**
 
@@ -6869,7 +6869,7 @@ Cosmic Power
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.050.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.050.png)
 
 **301-Delcatty**
 
@@ -7043,7 +7043,7 @@ Cosmic Power
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.051.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.051.png)
 
 **302-Sableye**
 
@@ -7219,7 +7219,7 @@ Mean Look
 
 Imprison
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.052.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.052.png)
 
 **303-Mawile**
 
@@ -7393,7 +7393,7 @@ Metal Burst
 
 Misty Terrain
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.053.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.053.png)
 
 **304-Aron**
 
@@ -7539,7 +7539,7 @@ Superpower
 
 Reversal
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.054.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.054.png)
 
 **305-Lairon**
 
@@ -7686,7 +7686,7 @@ Superpower
 
 Reversal
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.055.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.055.png)
 
 **306-Aggron**
 
@@ -7880,7 +7880,7 @@ Superpower
 
 Reversal
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.056.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.056.png)
 
 **307-Meditite**
 
@@ -8036,7 +8036,7 @@ Quick Guard
 
 Foresight
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.057.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.057.png)
 
 **308-Medicham**
 
@@ -8206,7 +8206,7 @@ Quick Guard
 
 Foresight
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.058.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.058.png)
 
 **309-Electrike**
 
@@ -8346,7 +8346,7 @@ Electro Ball
 
 Eerie Impulse
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.059.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.059.png)
 
 **310-Manectric**
 
@@ -8497,7 +8497,7 @@ Electro Ball
 
 Eerie Impulse
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.060.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.060.png)
 
 **311-Plusle**
 
@@ -8629,7 +8629,7 @@ Tearful Look
 
 Body Slam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.061.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.061.png)
 
 **312-Minun**
 
@@ -8757,7 +8757,7 @@ Tearful Look
 
 Body Slam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.062.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.062.png)
 
 **313-Volbeat**
 
@@ -8908,7 +8908,7 @@ Dizzy Punch
 
 Silver Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.063.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.063.png)
 
 **314-Illumise**
 
@@ -9059,7 +9059,7 @@ Aromatherapy
 
 Silver Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.064.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.064.png)
 
 **315-Roselia**
 
@@ -9212,7 +9212,7 @@ Power Whip
 
 Grass Whistle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.065.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.065.png)
 
 **316-Gulpin**
 
@@ -9332,7 +9332,7 @@ Gunk Shot
 
 Venom Drench
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.066.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.066.png)
 
 **317-Swalot**
 
@@ -9469,7 +9469,7 @@ Gunk Shot
 
 Venom Drench
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.067.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.067.png)
 
 **318-Carvanha**
 
@@ -9594,7 +9594,7 @@ Swift
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.068.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.068.png)
 
 **319-Sharpedo**
 
@@ -9748,7 +9748,7 @@ Swift
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.069.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.069.png)
 
 **320-Wailmer**
 
@@ -9897,7 +9897,7 @@ Clear Smog
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.070.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.070.png)
 
 **321-Wailord**
 
@@ -10055,7 +10055,7 @@ Clear Smog
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.071.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.071.png)
 
 **322-Numel**
 
@@ -10190,7 +10190,7 @@ Heavy Slam
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.072.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.072.png)
 
 **323-Camerupt**
 
@@ -10352,7 +10352,7 @@ Heavy Slam
 
 Mud Bomb
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.073.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.073.png)
 
 **324-Torkoal**
 
@@ -10496,7 +10496,7 @@ Superpower
 
 Body Press
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.074.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.074.png)
 
 **325-Spoink**
 
@@ -10641,7 +10641,7 @@ Whirlwind
 
 Simple Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.075.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.075.png)
 
 **326-Grumpig**
 
@@ -10810,7 +10810,7 @@ Whirlwind
 
 Simple Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.076.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.076.png)
 
 **327-Spinda**
 
@@ -10973,7 +10973,7 @@ Psycho Shift
 
 Guard Split
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.077.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.077.png)
 
 **328-Trapinch**
 
@@ -11098,7 +11098,7 @@ Earth Power
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.078.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.078.png)
 
 **329-Vibrava**
 
@@ -11253,7 +11253,7 @@ Earth Power
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.079.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.079.png)
 
 **330-Flygon**
 
@@ -11431,7 +11431,7 @@ Earth Power
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.080.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.080.png)
 
 **331-Cacnea**
 
@@ -11585,7 +11585,7 @@ Power-Up Punch
 
 Grass Whistle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.081.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.081.png)
 
 **332-Cacturne**
 
@@ -11754,7 +11754,7 @@ Power-Up Punch
 
 Grass Whistle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.082.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.082.png)
 
 **333-Swablu**
 
@@ -11885,7 +11885,7 @@ Hyper Voice
 
 Play Rough
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.083.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.083.png)
 
 **334-Altaria**
 
@@ -12044,7 +12044,7 @@ Hyper Voice
 
 Play Rough
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.084.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.084.png)
 
 **335-Zangoose**
 
@@ -12228,7 +12228,7 @@ Belly Drum
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.085.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.085.png)
 
 **336-Seviper**
 
@@ -12364,7 +12364,7 @@ Switcheroo
 
 Final Gambit
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.086.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.086.png)
 
 **337-Lunatone**
 
@@ -12509,7 +12509,7 @@ TM92: Trick Room
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.087.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.087.png)
 
 **338-Solrock**
 
@@ -12653,7 +12653,7 @@ TM92: Trick Room
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.088.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.088.png)
 
 **339-Barboach**
 
@@ -12780,7 +12780,7 @@ Muddy Water
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.089.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.089.png)
 
 **340-Whiscash**
 
@@ -12932,7 +12932,7 @@ Muddy Water
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.090.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.090.png)
 
 **341-Corphish**
 
@@ -13092,7 +13092,7 @@ Dragon Dance
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.091.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.091.png)
 
 **342-Crawdaunt**
 
@@ -13269,7 +13269,7 @@ Dragon Dance
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.092.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.092.png)
 
 **343-Baltoy**
 
@@ -13403,7 +13403,7 @@ TM92: Trick Room
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.093.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.093.png)
 
 **344-Claydol**
 
@@ -13562,7 +13562,7 @@ TM98: Rock Smash
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.094.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.094.png)
 
 **345-Lileep**
 
@@ -13688,7 +13688,7 @@ Curse
 
 Mega Drain
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.095.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.095.png)
 
 **346-Cradily**
 
@@ -13820,7 +13820,7 @@ Curse
 Mega Drain
 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.096.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.096.png)
 
 **347-Anorith**
 
@@ -13951,7 +13951,7 @@ Iron Defense
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.097.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.097.png)
 
 **348-Armaldo**
 
@@ -14102,7 +14102,7 @@ Iron Defense
 
 Liquidation
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.098.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.098.png)
 
 **349-Feebas**
 
@@ -14192,7 +14192,7 @@ Haze
 
 Tickle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.099.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.099.png)
 
 **350-Milotic**
 
@@ -14342,7 +14342,7 @@ Haze
 
 Tickle
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.100.png)![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.101.png)![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.102.png)![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.103.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.100.png)![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.101.png)![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.102.png)![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.103.png)
 
 **351-Castform**
 
@@ -14476,7 +14476,7 @@ Cosmic Power
 
 Ominous Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.104.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.104.png)
 
 **352-Kecleon**
 
@@ -14648,7 +14648,7 @@ Power-Up Punch
 
 Dizzy Punch
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.105.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.105.png)
 
 **353-Shuppet**
 
@@ -14797,7 +14797,7 @@ Foresight
 
 Ominous Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.106.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.106.png)
 
 **354-Banette**
 
@@ -14962,7 +14962,7 @@ Foresight
 
 Ominous Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.107.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.107.png)
 
 **355-Duskull**
 
@@ -15091,7 +15091,7 @@ Feint Attack
 
 Ominous Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.108.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.108.png)
 
 **356-Dusclops**
 
@@ -15259,7 +15259,7 @@ Feint Attack
 
 Ominous Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.109.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.109.png)
 
 **357-Tropius**
 
@@ -15414,7 +15414,7 @@ Dragon Hammer
 
 Razor Wind
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.110.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.110.png)
 
 **358-Chimecho**
 
@@ -15568,7 +15568,7 @@ Cosmic Power
 
 Perish Song
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.111.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.111.png)
 
 **359-Absol**
 
@@ -15760,7 +15760,7 @@ Play Rough
 
 Feint Attack
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.112.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.112.png)
 
 **360-Wynaut**
 
@@ -15799,7 +15799,7 @@ TM20: Safeguard
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.113.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.113.png)
 
 **361-Snorunt**
 
@@ -15919,7 +15919,7 @@ Hex
 
 Fake Tears
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.114.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.114.png)
 
 **362-Glalie**
 
@@ -16085,7 +16085,7 @@ Hex
 
 Fake Tears 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.115.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.115.png)
 
 **363-Spheal**
 
@@ -16211,7 +16211,7 @@ Liquidation
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.116.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.116.png)
 
 **364-Sealeo**
 
@@ -16349,7 +16349,7 @@ Liquidation
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.117.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.117.png)
 
 **365-Walrein**
 
@@ -16487,7 +16487,7 @@ Liquidation
 
 Signal Beam
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.118.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.118.png)
 
 **366-Clamperl**
 
@@ -16574,7 +16574,7 @@ Aqua Ring
 
 Muddy Water
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.119.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.119.png)
 
 **367-Huntail**
 
@@ -16698,7 +16698,7 @@ Aqua Ring
 
 Muddy Water
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.120.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.120.png)
 
 **368-Gorebyss**
 
@@ -16824,7 +16824,7 @@ Aqua Ring
 
 Muddy Water
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.121.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.121.png)
 
 **369-Relicanth**
 
@@ -16971,7 +16971,7 @@ Liquidation
 
 Magnitude
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.122.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.122.png)
 
 **370-Luvdisc**
 
@@ -17095,7 +17095,7 @@ Heal Pulse
 
 Entrainment
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.123.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.123.png)
 
 **371-Bagon**
 
@@ -17219,7 +17219,7 @@ Dragon Dance
 
 Fire Fang
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.124.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.124.png)
 
 **372-Shelgon**
 
@@ -17352,7 +17352,7 @@ Dragon Dance
 
 Fire Fang
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.125.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.125.png)
 
 **373-Salamence**
 
@@ -17508,7 +17508,7 @@ Dragon Dance
 
 Fire Fang
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.126.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.126.png)
 
 **374-Beldum**
 
@@ -17540,7 +17540,7 @@ TMs:
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.127.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.127.png)
 
 **375-Metang**
 
@@ -17672,7 +17672,7 @@ TM98: Rock Smash
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.128.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.128.png)
 
 **376-Metagross**
 
@@ -17810,7 +17810,7 @@ TM98: Rock Smash
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.129.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.129.png)
 
 **377-Regirock**
 
@@ -17940,7 +17940,7 @@ TM100: Rock Climb
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.130.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.130.png)
 
 **378-Regice**
 
@@ -18066,7 +18066,7 @@ TM100: Rock Climb
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.131.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.131.png)
 
 **379-Registeel**
 
@@ -18198,7 +18198,7 @@ TM100: Rock Climb
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.132.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.132.png)
 
 **380-Latias**
 
@@ -18348,7 +18348,7 @@ TM99: Waterfall
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.133.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.133.png)
 
 **381-Latios**
 
@@ -18498,7 +18498,7 @@ TM99: Waterfall
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.134.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.134.png)
 
 **382-Kyogre**
 
@@ -18620,7 +18620,7 @@ TM99: Waterfall
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.135.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.135.png)
 
 **383-Groudon**
 
@@ -18762,7 +18762,7 @@ TM100: Rock Climb
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.136.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.136.png)
 
 **384-Rayquaza**
 
@@ -18918,7 +18918,7 @@ TM99: Waterfall
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.137.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.137.png)
 
 **385-Jirachi**
 
@@ -19056,7 +19056,7 @@ TM92: Trick Room
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.138.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.138.png)
 
 **386-Deoxys Normal**
 
@@ -19212,7 +19212,7 @@ TM98: Rock Smash
 
 Egg Moves: 
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.139.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.139.png)
 
 **386- Deoxys Attack**
 
@@ -19252,7 +19252,7 @@ Level Up:
 
 61 - Zap Cannon
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.140.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.140.png)
 
 **386-Deoxys Defense**
 
@@ -19294,9 +19294,9 @@ Level Up:
 
 73 - Mirror Coat
 
-![](img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.141.png)
+![](../img/gen3/Aspose.Words.e263469a-9d97-426d-9518-a3047cdcf0c9.141.png)
 
-**386-Deoxys Defense**
+**386-Deoxys Speed**
 
 Stats: 50 HP/95 Atk/90 Def/95 SpA/90 SpD/180 Spe/600 BST
 

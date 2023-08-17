@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pokemon Entries</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <script type="text/javascript" src="{{ url_for('static', filename='js/dex.js') }}"></script>
+</head>
+<body>
+    <h1>Pokemon Entries</h1>
+    <input type="text" id="nameFilter" placeholder="Filter by Name">
+
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Pokémon</th>
+                <th>Type1</th>
+                <th>Type2</th>
+                <th>Abilities</th>
+                <th>HP</th>
+                <th>Attack</th>
+                <th>Defense</th>
+                <th>Special Attack</th>
+                <th>Special Defense</th>
+                <th>Speed</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody id="entryList">
+        </tbody>
+    </table>
+</body>
+</html>

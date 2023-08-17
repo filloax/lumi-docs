@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pokemon Entries</title>
+</head>
+<body>
+    <h1>Pokemon Entries</h1>
+    <input type="text" id="nameFilter" placeholder="Filter by Name">
+    <button onclick="filterEntries()">Filter</button>
+
+    <ul id="entryList">
+        {% for entry in entries %}
+            <li>
+                <h2>{{ entry['Number'] }} - {{ entry['Name'] }}</h2>
+                <p>Type: {{ entry['Type'] }}</p>
+                <p>Abilities: {{ entry['Abilities'] | join(', ') }}</p>
+                {% if 'Image' in entry %}
+                    <img src="{{ url_for('static', filename=entry['Image']) }}" alt="{{ entry['Name'] }} Image" width="100">
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+
+    <script>
+        function filterEntries() {
+            const nameFilter = document.getElementById('nameFilter').value;
+            fetch(`/filter?name=${nameFilter}`)
+                .then(response => response.json())
+                .then(data => {
+                    const entryList = document.getElementById('entryList');
+                    entryList.innerHTML = '';
+
+                    data.forEach(entry => {
+                        const li = document.createElement('li');
+                        li.innerHTML = `
+                            <h2>${entry['Number']} - ${entry['Name']}</h2>
+                            <p>Type: ${entry['Type']}</p>
+                            <p>Abilities: ${entry['Abilities'].join(', ')}</p>
+                            ${entry['Image'] ? `<img src="${entry['Image']}" alt="${entry['Name']} Image" width="100">` : ''}
+                        `;
+                        entryList.appendChild(li);
+                    });
+                });
+        }
+    </script>
+</body>
+</html>
