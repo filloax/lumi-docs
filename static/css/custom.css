@@ -1,0 +1,98 @@
+table#pokemonTable > * {
+    font-family: 'Absolut Pro';
+}
+.number {
+    font-family: 'Roboto';
+}
+
+.type-from-luminescent {
+    font-style: italic;
+}
+.type-from-renegade {
+    font-weight: bold;
+}
+.ab-from-luminescent {
+    font-style: italic;
+}
+.ab-from-renegade {
+    font-weight: bold;
+}
+.stat-from-luminescent {
+    font-style: italic;
+}
+.stat-from-renegade {
+    font-weight: bold;
+}
+
+/* Colors for different Pokemon types */
+/* Darker colors for different Pokemon types in dark mode */
+.type-normal { background-color: #333333; }
+.type-fire { background-color: #a43e38; }
+.type-water { background-color: #48628a; }
+.type-electric { background-color: #b28c24; }
+.type-grass { background-color: #548952; }
+.type-ice { background-color: #609595; }
+.type-fighting { background-color: #8d3e3e; }
+.type-poison { background-color: #775da8; }
+.type-ground { background-color: #9d8933; }
+.type-flying { background-color: #6755bb; }
+.type-psychic { background-color: #a64176; }
+.type-bug { background-color: #7e8324; }
+.type-rock { background-color: #938f6b; }
+.type-ghost { background-color: #565d87; }
+.type-dragon { background-color: #6e49b7; }
+.type-dark { background-color: #5b4e43; }
+.type-steel { background-color: #808080; }
+.type-fairy { background-color: #b969a9; }
+
+.stat-buff {
+    color: greenyellow;
+}
+.stat-nerf {
+    color: red;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tooltip::before {
+    content: "";
+    position: absolute;
+    top: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid #333; /* Tooltip arrow color */
+    z-index: 1;
+}
+
+.tooltip[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    top: -30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333; /* Tooltip background color */
+    color: #fff; /* Tooltip text color */
+    padding: 5px 10px;
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 1;
+    font-size: 14px;
+    opacity: 0.9;
+}
+
+#pokemonTable a {
+    color: inherit;
+}
+
+.dataTables_filter {
+    float: left !important;
+    margin-bottom: 5px;
+}

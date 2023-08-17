@@ -3,7 +3,8 @@ var all_data;
 
 addEventListener("load", (event) => {
     fetchData()
-    document.getElementById('nameFilter').addEventListener('input', filterEntries);
+    // document.getElementById('nameFilter').addEventListener('input', filterEntries);
+    document.getElementById('nameFilter').hidden = true
 });
 
 function fetchData() {
@@ -20,8 +21,18 @@ function fetchData() {
         .then(data => {
             all_data = data
             renderData(data)
-            filterEntries()
+            // filterEntries()
+            
+            // Init after loading data
+            initDataTables()
         });
+}
+
+function initDataTables() {
+    $('#pokemonTable').DataTable({
+        paging: false,
+        searching: true
+    });
 }
 
 const STATS = [
@@ -50,7 +61,7 @@ function renderData(data) {
         "".toC
         const formSuffix = (entry['form']) ? ` (${titleCase(entry['form'])})` : ''
         row.innerHTML = `
-            <td>${ entry['num'] }${ regionSuffix }</td>
+            <td>${ entry['num'] }</td>
             <td>${ entry['name'] }${ regionSuffix }${formSuffix}</td>
             ${ renderType(entry) }
             ${ renderAbilities(entry) }
@@ -67,22 +78,35 @@ function filterEntries() {
 }
 
 function renderStat(stat) {
-    return `<td>${stat["value"]}</td>`
+    const value = stat["value"]
+    if ("original" in stat) {
+        const original = stat["original"]
+        const changed_by = stat["changed_by"]
+        const cls = "stat-from-" + changed_by
+        const greater = value > original
+        return `<td class="number"><span class="tooltip ${cls} ${greater ? "stat-buff" : "stat-nerf"}" title="${stat["original"]}">${value}</span></td>`
+    } else {
+        return `<td class="number">${value}</td>`
+    }
 }
 
 function renderType(entry) {
     const typeData = entry["type"]
     const hasNotes = "type_notes" in entry
-    const is_changed = 'source' in typeData
-    const cls = is_changed ? `type-from-${typeData['source']}` : ""
     /** @type {Array} */
     const changed_which = typeData["changed_which"] || []
-    const cls0 = changed_which.includes(0) ? cls : ''
-    const cls1 = changed_which.includes(1) ? cls : ''
-    const notesAddon = hasNotes ? `<span class="tooltip" title="${entry["type_notes"]}">*</span>` : ''
-    return `<td><span class="${cls0}">${ typeData['value'][0] }</span></td>
-            <td><span class="${cls1}">${ typeData['value'][1] || '' }</span>${notesAddon}</td>
-            `
+    const notesAddon = hasNotes ? `<sup class="tooltip" title="${entry["type_notes"]}">note</sup>` : ''
+
+    out = ''
+
+    for (let i = 0; i < 2; i++) {
+        const value = typeData['value'][i]
+        const cls = changed_which.includes(i) ? `type-from-${typeData['source']}` : ''
+        const cell_cls = value ? ` type-${value.toLowerCase()}` : ''
+        out += `<td class="${cell_cls}"><span class="${cls}">${ value || '' }</span>${i == 1 ? notesAddon : ''}</td>\n`
+    }
+
+    return out
 }
 
 function renderAbilities(entry) {
@@ -97,7 +121,7 @@ function renderAbilities(entry) {
     }).join(", ");
     if (hasNotes) {
         const abilityNotes = entry["ability_notes"];
-        out += `<span class="tooltip" title="${abilityNotes}">*</span>`;
+        out += `<sup class="tooltip" title="${abilityNotes}">note</sup>`;
     }
     out += "</td>";
     return out;

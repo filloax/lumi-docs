@@ -13,18 +13,24 @@
             text-align: left;
         }
     </style>
-    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fonts.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/dark.css') }}">
     <script type="text/javascript" src="{{ url_for('static', filename='js/dex.js') }}"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/datatables.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/custom.css') }}">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
 </head>
 <body>
-    <h1>Pokemon Entries</h1>
+    <h1>Luminescent Platinum Homemade Dex</h1>
     <input type="text" id="nameFilter" placeholder="Filter by Name">
 
-    <table>
+    <table id="pokemonTable" class="display">
         <thead>
             <tr>
                 <th>#</th>
-                <th>Pokémon</th>
+                <th>Name</th>
                 <th>Type1</th>
                 <th>Type2</th>
                 <th>Abilities</th>
