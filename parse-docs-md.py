@@ -93,8 +93,8 @@ def parse_dex_file(
     for line in lines:
         pattern = f"(?:{'|'.join(CHECK_FOR_FORMS)})" + FORM_PATTERN_SUFFIX
         match = re.match(pattern, line)
-        if match is not None:
-            forms.append(match.group(1))
+        if match is not None and match.group(1).lower() not in forms:
+            forms.append(match.group(1).lower())
 
     if len(forms) == 0:
         entries = [{}]
@@ -129,7 +129,7 @@ def parse_dex_file(
         elif is_stats_line(line):
             form_match = re.match(r'Stats' + FORM_PATTERN_SUFFIX, line)
             if form_match:
-                form = form_match.group(1)
+                form = form_match.group(1).lower()
             else:
                 form = None
             no_prefix = re.sub(r'Stats(?:\s*\(.*\)\s*)?:?\s*', '', line)
@@ -138,22 +138,20 @@ def parse_dex_file(
         elif line.startswith('Type:'):
             no_prefix = line.replace("Type:", "").strip()
             notes_match = re.match(NOTES_PATTERN, no_prefix)
-            types = re.split(r'[\\/]', notes_match.group("main"))
-            if "notes" in notes_match.groupdict():
+            if notes_match.group("notes") is not None:
                 set_for_form('type_notes', notes_match.group("notes"))
-            set_for_form('type', types)
+            set_for_form('type', parse_types(notes_match.group("main")))
         elif line.startswith('Abilities'):
             notes_match = re.match(NOTES_PATTERN, line)
             form_match = re.match(r'Abilities' + FORM_PATTERN_SUFFIX, notes_match.group("main"))
             if form_match:
-                form = form_match.group(1)
+                form = form_match.group(1).lower()
             else:
                 form = None
             no_prefix = re.sub(r'Abilities(?:\s*\(.*\)\s*)?:?\s*', '', notes_match.group("main"))
-            abilities = no_prefix.split("/")
 
-            set_for_form('abilities', abilities, form)
-            if "notes" in notes_match.groupdict():
+            set_for_form('abilities', parse_abilities(no_prefix), form)
+            if notes_match.group("notes") is not None:
                 set_for_form('ability_notes', notes_match.group("notes"), form)
         elif line.startswith('Location:'):
             set_for_form('location', [])
@@ -253,6 +251,46 @@ def parse_stats_line(line: str):
         stats[stat] = stat_entry
 
     return stats
+
+def parse_types(types_line: str) -> dict:
+    result = {}
+    
+    parts = types_line.split(">")
+    
+    if len(parts) == 1:  # Unchanged type
+        result["value"] = parts[0].split('/')
+    else:  # Changed type
+        original_types, changed_part = parts
+        changed_split = changed_part.split('/')
+        result["value"] = [s.replace("*", "") for s in changed_split]
+        result["original"] = original_types.split('/')
+        
+        asterisk_count = changed_part.count('*')
+        result["changed_which"] = [changed_split.index(t) for t in changed_split if '*' in t]
+        
+        if asterisk_count == 2:
+            result["source"] = "luminescent"
+        elif asterisk_count == 4:
+            result["source"] = "renegade"
+        
+    return result
+
+def parse_abilities(abilities_line: str) -> list:
+    split = re.split(r'\s*[\\/]\s*', abilities_line)
+    abilities = [_parse_single_ability(x) for x in split]
+    return abilities
+
+def _parse_single_ability(ability: str) -> dict:
+    m = re.match(r'(\**)([^\*]+)\**', ability)
+    asterisks = m.group(1)
+    out = {
+        'value': m.group(2)
+    }
+    if len(asterisks) == 2:
+        out["source"] =  "renegade"
+    elif len(asterisks) == 1:
+        out["source"] =  "luminescent"
+    return out
 
 def fill_missing(all_data: list[dict]):
     """Fill missing required entries by getting them from similar mons"""

@@ -61,3 +61,16 @@ th {
     background-color: #444;
     color: #ffffff;
 }
+
+.type-from-luminescent {
+    font-style: italic;
+}
+.type-from-renegade {
+    font-weight: bold;
+}
+.ab-from-luminescent {
+    font-style: italic;
+}
+.ab-from-renegade {
+    font-weight: bold;
+}

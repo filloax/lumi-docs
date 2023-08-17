@@ -26,17 +26,23 @@
                 "value": 253
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Dark"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Dark"
+            ]
+        },
         "abilities": [
-            "Run Away",
-            "Guts",
-            "Hustle"
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Hustle"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 201 (Incense, 20% chance)"
         ],
@@ -328,17 +334,23 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Dark"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Dark"
+            ]
+        },
         "abilities": [
-            "Run Away",
-            "Guts",
-            "Hustle"
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Hustle"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Rattata-A (Level 20 at Nighttime)"
         ],
@@ -646,15 +658,17 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Electric",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Surge Surfer"
+            {
+                "value": "Surge Surfer"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Pikachu (Use Sun Stone)",
             "Route 222 (Incense, 20% chance)"
@@ -954,17 +968,24 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Snow Cloak",
-            "*Tough Claws*",
-            "Slush Rush"
+            {
+                "value": "Snow Cloak"
+            },
+            {
+                "value": "Tough Claws",
+                "source": "luminescent"
+            },
+            {
+                "value": "Slush Rush"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 216 (Incense, 10% chance)"
         ],
@@ -1255,17 +1276,24 @@
                 "value": 450
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Snow Cloak",
-            "*Tough Claws*",
-            "Slush Rush"
+            {
+                "value": "Snow Cloak"
+            },
+            {
+                "value": "Tough Claws",
+                "source": "luminescent"
+            },
+            {
+                "value": "Slush Rush"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Sandshrew-A (Use Ice Stone)"
         ],
@@ -1572,16 +1600,22 @@
                 "value": 299
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice"
-        ],
+        "type": {
+            "value": [
+                "Ice"
+            ]
+        },
         "abilities": [
-            "Snow Cloak",
-            "Snow Cloak",
-            "Snow Warning"
+            {
+                "value": "Snow Cloak"
+            },
+            {
+                "value": "Snow Cloak"
+            },
+            {
+                "value": "Snow Warning"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 216 (Incense, 10% chance)"
         ],
@@ -1824,17 +1858,23 @@
                 "value": 505
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "Snow Cloak",
-            "Snow Cloak",
-            "Snow Warning"
+            {
+                "value": "Snow Cloak"
+            },
+            {
+                "value": "Snow Cloak"
+            },
+            {
+                "value": "Snow Warning"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Vulpix (Use Ice Stone)",
             "Route 217 (Incense, 10% chance)",
@@ -2087,17 +2127,24 @@
                 "value": 265
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground",
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Ground",
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Tangling Hair",
-            "*Technician*",
-            "Sand Force"
+            {
+                "value": "Tangling Hair"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sand Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Gate (Incense, 20% chance)",
             "Oreburgh Mine (Incense, 20% chance)",
@@ -2329,17 +2376,24 @@
                 "value": 425
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground",
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Ground",
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Tangling Hair",
-            "*Technician*",
-            "Sand Force"
+            {
+                "value": "Tangling Hair"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sand Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Diglett-A (Level 26)",
             "Route 218 (Incense, 20% chance)",
@@ -2594,16 +2648,23 @@
                 "value": 290
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark"
-        ],
+        "type": {
+            "value": [
+                "Dark"
+            ]
+        },
         "abilities": [
-            "Pickup",
-            "Technician",
-            "*Prankster*"
+            {
+                "value": "Pickup"
+            },
+            {
+                "value": "Technician"
+            },
+            {
+                "value": "Prankster",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Lake Verity (Incense, 20% chance)"
         ],
@@ -2873,16 +2934,22 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Battle Armor",
-            "Tough Claws",
-            "Steely Spirit"
+            {
+                "value": "Battle Armor"
+            },
+            {
+                "value": "Tough Claws"
+            },
+            {
+                "value": "Steely Spirit"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Meowth-G (Level 28)",
             "Route 221 (Incense, 20% chance)",
@@ -3182,16 +3249,23 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark"
-        ],
+        "type": {
+            "value": [
+                "Dark"
+            ]
+        },
         "abilities": [
-            "Fur Coat",
-            "Technician",
-            "*Prankster*"
+            {
+                "value": "Fur Coat"
+            },
+            {
+                "value": "Technician"
+            },
+            {
+                "value": "Prankster",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Meowth-A (Level 28 or Happiness)",
             "Route 225 (Incense, 20% chance)"
@@ -3488,17 +3562,24 @@
                 "value": 350
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire",
-            "Rock"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Rock"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "*Rock Head*",
-            "Justified"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Rock Head",
+                "source": "luminescent"
+            },
+            {
+                "value": "Justified"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 202 (Incense, 20% chance)",
             "Route 205 (North, Incense, 20% chance)"
@@ -3747,17 +3828,24 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire",
-            "Rock"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Rock"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "*Rock Head*",
-            "Defiant"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Rock Head",
+                "source": "luminescent"
+            },
+            {
+                "value": "Defiant"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Growlithe-H (Use Fire Stone)"
         ],
@@ -3947,17 +4035,23 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Magnet Pull",
-            "Sturdy",
-            "Galvanize"
+            {
+                "value": "Magnet Pull"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Galvanize"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Ravaged Path (Incense, 20% chance)",
             "Route 206 (Incense, 20% chance)",
@@ -4225,17 +4319,23 @@
                 "value": 390
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Magnet Pull",
-            "Sturdy",
-            "Galvanize"
+            {
+                "value": "Magnet Pull"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Galvanize"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Geodude-A (Level 25)",
             "Iron Island (Inside, Incense, 20% chance)"
@@ -4514,17 +4614,23 @@
                 "value": 495
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Magnet Pull",
-            "Sturdy",
-            "Galvanize"
+            {
+                "value": "Magnet Pull"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Galvanize"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Graveler-A (Level 36)",
             "Victory Road (Incense, 20% chance)"
@@ -4803,16 +4909,30 @@
                 "value": 410
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic>*Fairy*"
-        ],
+        "type": {
+            "value": [
+                "Fairy"
+            ],
+            "original": [
+                "Psychic"
+            ],
+            "changed_which": [
+                0
+            ],
+            "source": "luminescent"
+        },
         "abilities": [
-            "Run Away",
-            "Pastel Veil",
-            "*Magic Guard*"
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Pastel Veil"
+            },
+            {
+                "value": "Magic Guard",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 204 (North, Incense, 20% chance)"
         ],
@@ -4992,18 +5112,33 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic",
-            "Fairy>*Fairy",
-            "Fire*"
-        ],
+        "type": {
+            "value": [
+                "Fairy",
+                "Fire"
+            ],
+            "original": [
+                "Psychic",
+                "Fairy"
+            ],
+            "changed_which": [
+                0,
+                1
+            ],
+            "source": "luminescent"
+        },
         "abilities": [
-            "Run Away",
-            "Pastel Veil",
-            "*Magic Guard*"
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Pastel Veil"
+            },
+            {
+                "value": "Magic Guard",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Ponyta-G (Level 35)",
             "Route 226 (Incense, 20% chance)"
@@ -5248,16 +5383,22 @@
                 "value": 315
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Gluttony",
-            "Own Tempo",
-            "Regenerator"
+            {
+                "value": "Gluttony"
+            },
+            {
+                "value": "Own Tempo"
+            },
+            {
+                "value": "Regenerator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Lake Verity (Surfing, Incense, 30% chance)",
             "Route 203 (Surfing, Incense, 30% chance)",
@@ -5557,17 +5698,23 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Psychic",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Quick Draw",
-            "Own Tempo",
-            "Regenerator"
+            {
+                "value": "Quick Draw"
+            },
+            {
+                "value": "Own Tempo"
+            },
+            {
+                "value": "Regenerator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Slowpoke-G (Level 37)",
             "Route 219 (Surfing, Incense, 30% chance)",
@@ -5882,16 +6029,23 @@
                 "value": 377
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Steadfast",
-            "*Super Luck*",
-            "Scrappy"
+            {
+                "value": "Steadfast"
+            },
+            {
+                "value": "Super Luck",
+                "source": "luminescent"
+            },
+            {
+                "value": "Scrappy"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 208 (Incense, 20% chance)",
             "Route 214 (Incense, 20% chance)"
@@ -6148,17 +6302,23 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Dark"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Dark"
+            ]
+        },
         "abilities": [
-            "Poison Touch",
-            "Gluttony",
-            "Power of Alchemy"
+            {
+                "value": "Poison Touch"
+            },
+            {
+                "value": "Gluttony"
+            },
+            {
+                "value": "Power of Alchemy"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Mt. Coronet (Route 211 Entrance, Incense, 20% chance)",
             "Route 210 (South, Incense, 20% chance)"
@@ -6426,17 +6586,23 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Dark"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Dark"
+            ]
+        },
         "abilities": [
-            "Poison Touch",
-            "Gluttony",
-            "Power of Alchemy"
+            {
+                "value": "Poison Touch"
+            },
+            {
+                "value": "Gluttony"
+            },
+            {
+                "value": "Power of Alchemy"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Grimer-A (Level 38)",
             "Fuego Ironworks (Incense, 20% chance)"
@@ -6720,17 +6886,23 @@
                 "value": 330
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric",
-            "Grass"
-        ],
+        "type": {
+            "value": [
+                "Electric",
+                "Grass"
+            ]
+        },
         "abilities": [
-            "Soundproof",
-            "Static",
-            "Aftermath"
+            {
+                "value": "Soundproof"
+            },
+            {
+                "value": "Static"
+            },
+            {
+                "value": "Aftermath"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Valley Windworks (Incense, 20% chance)"
         ],
@@ -6876,17 +7048,24 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric",
-            "Grass"
-        ],
+        "type": {
+            "value": [
+                "Electric",
+                "Grass"
+            ]
+        },
         "abilities": [
-            "Soundproof",
-            "Static",
-            "*Grassy Surge*"
+            {
+                "value": "Soundproof"
+            },
+            {
+                "value": "Static"
+            },
+            {
+                "value": "Grassy Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Voltorb-H (Use Leaf Stone)",
             "Route 224 (Incense, 20% chance)"
@@ -7115,17 +7294,24 @@
                 "value": 530
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Dragon"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Dragon"
+            ]
+        },
         "abilities": [
-            "Frisk",
-            "Harvest",
-            "*Rock Head*"
+            {
+                "value": "Frisk"
+            },
+            {
+                "value": "Harvest"
+            },
+            {
+                "value": "Rock Head",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Exeggcute (Use Sun Stone)",
             "Valor Lakefront (Incense, 20% chance)",
@@ -7409,17 +7595,23 @@
                 "value": 425
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire",
-            "Ghost"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Ghost"
+            ]
+        },
         "abilities": [
-            "Cursed Body",
-            "Lightning Rod",
-            "Rock Head"
+            {
+                "value": "Cursed Body"
+            },
+            {
+                "value": "Lightning Rod"
+            },
+            {
+                "value": "Rock Head"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Cubone (Level 28 at nighttime)",
             "Stark Mountain (Outside, Incense, 20% chance)"
@@ -7728,17 +7920,23 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "Levitate",
-            "Neutralizing Gas",
-            "Misty Surge"
+            {
+                "value": "Levitate"
+            },
+            {
+                "value": "Neutralizing Gas"
+            },
+            {
+                "value": "Misty Surge"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Koffing (Level 35 + Knows Strange Steam)",
             "Route 210 (North, Incense, 20% chance)",
@@ -8041,17 +8239,23 @@
                 "value": 460
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Vital Spirit",
-            "Screen Cleaner",
-            "Ice Body"
+            {
+                "value": "Vital Spirit"
+            },
+            {
+                "value": "Screen Cleaner"
+            },
+            {
+                "value": "Ice Body"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Mime Jr. (Use Ice Stone)",
             "Route 217 (Incense, 10% chance)"
@@ -8413,15 +8617,17 @@
                 "value": 580
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Psychic",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Competitive"
+            {
+                "value": "Competitive"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Unavailable"
         ],
@@ -8656,15 +8862,17 @@
                 "value": 580
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Fighting",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Defiant"
+            {
+                "value": "Defiant"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Unavailable"
         ],
@@ -8895,15 +9103,17 @@
                 "value": 580
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Dark",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Berserk"
+            {
+                "value": "Berserk"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Unavailable"
         ],
@@ -9138,17 +9348,24 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire",
-            "Ghost"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Ghost"
+            ]
+        },
         "abilities": [
-            "Blaze",
-            "*Cursed Body*",
-            "Flash Fire"
+            {
+                "value": "Blaze"
+            },
+            {
+                "value": "Cursed Body",
+                "source": "luminescent"
+            },
+            {
+                "value": "Flash Fire"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Quilava (Level 36 + Knows Hex via level-up moveset)",
             "Turnback Cave (All Rooms, Incense, 20% chance)"
@@ -9473,17 +9690,24 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Psychic",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Curious Medicine",
-            "Own Tempo",
-            "*Regenerator*"
+            {
+                "value": "Curious Medicine"
+            },
+            {
+                "value": "Own Tempo"
+            },
+            {
+                "value": "Regenerator",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Slowpoke-G (Use King\u2019s Rock)",
             "Mt. Coronet (2F, Surfing, Incense, 30% chance)",
@@ -9797,17 +10021,23 @@
                 "value": 440
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Dark",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Swift Swim",
-            "Intimidate"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Intimidate"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Twinleaf Town (Surfing, Incense, 30% chance)",
             "Ravaged Path (Surfing, Incense, 30% chance)",
@@ -9990,17 +10220,24 @@
                 "value": 430
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Inner Focus",
-            "Poison Touch",
-            "*Technician*"
+            {
+                "value": "Inner Focus"
+            },
+            {
+                "value": "Poison Touch"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Great Marsh (Incense, 20% chance)"
         ],
@@ -10294,16 +10531,22 @@
                 "value": 410
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ghost"
-        ],
+        "type": {
+            "value": [
+                "Ghost"
+            ]
+        },
         "abilities": [
-            "Weak Armor",
-            "Weak Armor",
-            "Cursed Body"
+            {
+                "value": "Weak Armor"
+            },
+            {
+                "value": "Weak Armor"
+            },
+            {
+                "value": "Cursed Body"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 204 (South, Surfing, Incense, 30% chance)",
             "Valley Windworks (Surfing, Incense, 30% chance)",
@@ -10611,17 +10854,23 @@
                 "value": 240
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark",
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Dark",
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Pickup",
-            "Gluttony",
-            "Quick Feet"
+            {
+                "value": "Pickup"
+            },
+            {
+                "value": "Gluttony"
+            },
+            {
+                "value": "Quick Feet"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 203 (Incense, 20% chance)"
         ],
@@ -10881,17 +11130,23 @@
                 "value": 520
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark",
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Dark",
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Reckless",
-            "Guts",
-            "Defiant"
+            {
+                "value": "Reckless"
+            },
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Defiant"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Linoone-G (Level 35 at nighttime)",
             "Route 230 (Incense, 20% chance)"
@@ -11184,16 +11439,22 @@
                 "value": 525
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "Cute Charm",
-            "Cute Charm",
-            "Pixilate"
+            {
+                "value": "Cute Charm"
+            },
+            {
+                "value": "Cute Charm"
+            },
+            {
+                "value": "Pixilate"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Eevee (Happiness + Fairy Move or Use Shiny Stone)"
         ],
@@ -11458,16 +11719,22 @@
                 "value": 510
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ghost"
-        ],
+        "type": {
+            "value": [
+                "Ghost"
+            ]
+        },
         "abilities": [
-            "Weak Armor",
-            "Weak Armor",
-            "Perish Body"
+            {
+                "value": "Weak Armor"
+            },
+            {
+                "value": "Weak Armor"
+            },
+            {
+                "value": "Perish Body"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Corsola-G (Level 38)",
             "Iron Island (Inside, Surfing, Incense, 30% chance)",
@@ -11779,16 +12046,23 @@
                 "value": 507
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Steadfast",
-            "*Super Luck*",
-            "Scrappy"
+            {
+                "value": "Steadfast"
+            },
+            {
+                "value": "Super Luck",
+                "source": "luminescent"
+            },
+            {
+                "value": "Scrappy"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Farfetch\u2019d-G (Happiness)",
             "Lake Valor (Incense, 20% chance)"
@@ -12066,17 +12340,24 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Tangled Feet",
-            "Screen Cleaner",
-            "*Ice Body*"
+            {
+                "value": "Tangled Feet"
+            },
+            {
+                "value": "Screen Cleaner"
+            },
+            {
+                "value": "Ice Body",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Mr. Mime-G (Level 42)",
             "Lake Acuity (Incense, 20% chance)"
@@ -12453,17 +12734,24 @@
                 "value": 525
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Frisk",
-            "*Sap Sipper*"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Frisk"
+            },
+            {
+                "value": "Sap Sipper",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Stantler (Level 27 + Knows Zen Headbutt via level-up moveset)"
         ],
@@ -12741,17 +13029,24 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Rock"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Rock"
+            ]
+        },
         "abilities": [
-            "Sheer Force",
-            "*Technician*",
-            "Steadfast"
+            {
+                "value": "Sheer Force"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            },
+            {
+                "value": "Steadfast"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Scyther (Use King\u2019s Rock)"
         ],
@@ -13068,17 +13363,23 @@
                 "value": 550
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Guts",
-            "Bulletproof",
-            "Unnerve"
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Bulletproof"
+            },
+            {
+                "value": "Unnerve"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Ursaring (Level 48 at nighttime)"
         ],
@@ -13414,17 +13715,24 @@
                 "value": 510
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Pressure",
-            "Poison Touch",
-            "*Technician*"
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Poison Touch"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Sneasel-H (Level up with Razor Claw in daytime)",
             "Acuity Lakefront (Incense, 20% chance)",
@@ -13732,17 +14040,23 @@
                 "value": 510
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dark",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Dark",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Swift Swim",
-            "Intimidate"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Intimidate"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Qwilfish-H (Level 27 + Knows Venoshock)",
             "Canalave City (Surfing, Incense, 30% chance)",

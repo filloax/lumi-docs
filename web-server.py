@@ -18,7 +18,6 @@ for file in os.listdir(DATA_DIR):
         all_data.extend(data)
 
 all_data.sort(key=lambda e: e["num"])
-print(len(all_data))
 
 @app.route('/')
 def index():

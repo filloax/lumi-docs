@@ -25,17 +25,24 @@
                 "value": 318
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "Overgrow",
-            "*Grassy Surge*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Overgrow"
+            },
+            {
+                "value": "Grassy Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Jubilife City Pok\u00e9mon Center (Gift)"
         ],
@@ -261,17 +268,24 @@
                 "value": 405
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "Overgrow",
-            "*Grassy Surge*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Overgrow"
+            },
+            {
+                "value": "Grassy Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Bulbasaur (Level 16)"
         ],
@@ -505,17 +519,25 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Thick Fat**",
-            "*Grassy Surge*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Thick Fat",
+                "source": "renegade"
+            },
+            {
+                "value": "Grassy Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Ivysaur (Level 32)"
         ],
@@ -781,16 +803,23 @@
                 "value": 309
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Solar Power",
-            "Blaze",
-            "*Drought*"
+            {
+                "value": "Solar Power"
+            },
+            {
+                "value": "Blaze"
+            },
+            {
+                "value": "Drought",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Jubilife City Pok\u00e9mon Center (Gift)"
         ],
@@ -1040,16 +1069,23 @@
                 "value": 405
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Solar Power",
-            "Blaze",
-            "*Drought*"
+            {
+                "value": "Solar Power"
+            },
+            {
+                "value": "Blaze"
+            },
+            {
+                "value": "Drought",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Charmander (Level 16)"
         ],
@@ -1303,18 +1339,33 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire",
-            "Flying>Fire",
-            "**Dragon**"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Dragon"
+            ],
+            "original": [
+                "Fire",
+                "Flying"
+            ],
+            "changed_which": [
+                1
+            ],
+            "source": "renegade"
+        },
         "abilities": [
-            "**Levitate**",
-            "Blaze",
-            "*Drought*"
+            {
+                "value": "Levitate",
+                "source": "renegade"
+            },
+            {
+                "value": "Blaze"
+            },
+            {
+                "value": "Drought",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Charmeleon (Level 36)"
         ],
@@ -1632,16 +1683,23 @@
                 "value": 314
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Rain Dish",
-            "Torrent",
-            "*Drizzle*"
+            {
+                "value": "Rain Dish"
+            },
+            {
+                "value": "Torrent"
+            },
+            {
+                "value": "Drizzle",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Jubilife City Pok\u00e9mon Center (Gift)"
         ],
@@ -1887,16 +1945,23 @@
                 "value": 405
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Rain Dish",
-            "Torrent",
-            "*Drizzle*"
+            {
+                "value": "Rain Dish"
+            },
+            {
+                "value": "Torrent"
+            },
+            {
+                "value": "Drizzle",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Squirtle (Level 16)"
         ],
@@ -2142,17 +2207,32 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water>Water",
-            "**Steel**"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Steel"
+            ],
+            "original": [
+                "Water"
+            ],
+            "changed_which": [
+                1
+            ],
+            "source": "renegade"
+        },
         "abilities": [
-            "*Mega Launcher*",
-            "Torrent",
-            "**Drizzle**"
+            {
+                "value": "Mega Launcher",
+                "source": "luminescent"
+            },
+            {
+                "value": "Torrent"
+            },
+            {
+                "value": "Drizzle",
+                "source": "renegade"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Wartortle (Level 36)"
         ],
@@ -2458,16 +2538,23 @@
                 "value": 195
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug"
-        ],
+        "type": {
+            "value": [
+                "Bug"
+            ]
+        },
         "abilities": [
-            "Shield Dust",
-            "Run Away",
-            "*Stench*"
+            {
+                "value": "Shield Dust"
+            },
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Stench",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 204 (South, North, 10% chance)",
             "Valley Windworks (Honey Tree, 20% chance)"
@@ -2518,16 +2605,22 @@
                 "value": 205
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug"
-        ],
+        "type": {
+            "value": [
+                "Bug"
+            ]
+        },
         "abilities": [
-            "Shed Skin",
-            "Shed Skin",
-            "Shed Skin"
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Shed Skin"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Caterpie (Level 7)",
             "Route 207 (Honey Tree, 20% chance)",
@@ -2594,17 +2687,24 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Tinted Lens",
-            "Compound Eyes",
-            "*Effect Spore*"
+            {
+                "value": "Tinted Lens"
+            },
+            {
+                "value": "Compound Eyes"
+            },
+            {
+                "value": "Effect Spore",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Metapod (Level 10)",
             "Route 214 (Honey Tree, 20% chance)"
@@ -2876,17 +2976,24 @@
                 "value": 195
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Shield Dust",
-            "Run Away",
-            "*Poison Point*"
+            {
+                "value": "Shield Dust"
+            },
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Poison Point",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 204 (North & South, 10% chance)",
             "Valley Windworks (Honey tree, 20% chance)"
@@ -2937,17 +3044,23 @@
                 "value": 205
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Shed Skin",
-            "Shed Skin",
-            "Shed Skin"
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Shed Skin"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolution",
             "Route 207 (Honey Tree, 20% chance)",
@@ -3010,17 +3123,25 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "**Adaptability**",
-            "Sniper",
-            "*Poison Point*"
+            {
+                "value": "Adaptability",
+                "source": "renegade"
+            },
+            {
+                "value": "Sniper"
+            },
+            {
+                "value": "Poison Point",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolution",
             "Eterna Forest (Outside Honey Tree, 100% chance)",
@@ -3299,17 +3420,23 @@
                 "value": 251
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Keen Eye",
-            "Tangled Feet",
-            "Big Pecks"
+            {
+                "value": "Keen Eye"
+            },
+            {
+                "value": "Tangled Feet"
+            },
+            {
+                "value": "Big Pecks"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 201 (Morning, 10% chance, Day, 20% chance)",
             "Route 205 (North Honey Tree, 20% chance)"
@@ -3526,17 +3653,23 @@
                 "value": 349
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Keen Eye",
-            "Tangled Feet",
-            "Big Pecks"
+            {
+                "value": "Keen Eye"
+            },
+            {
+                "value": "Tangled Feet"
+            },
+            {
+                "value": "Big Pecks"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Pidgey (Level 18)",
             "Route 209 (Honey Tree, 20% chance)",
@@ -3757,17 +3890,24 @@
                 "changed_by": "both"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "**No Guard**",
-            "Tangled Feet",
-            "Big Pecks"
+            {
+                "value": "No Guard",
+                "source": "renegade"
+            },
+            {
+                "value": "Tangled Feet"
+            },
+            {
+                "value": "Big Pecks"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Pidgeotto (Level 36)"
         ],
@@ -3993,16 +4133,23 @@
                 "value": 253
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Hustle",
-            "Guts",
-            "*Technician*"
+            {
+                "value": "Hustle"
+            },
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 202 (10% chance)",
             "Old Chateau (30% chance)"
@@ -4259,16 +4406,23 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Hustle",
-            "Guts",
-            "*Technician*"
+            {
+                "value": "Hustle"
+            },
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Rattata (Level 20)",
             "Old Chateau (5% chance)",
@@ -4557,17 +4711,24 @@
                 "value": 262
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Keen Eye",
-            "Sniper",
-            "*Intimidate*"
+            {
+                "value": "Keen Eye"
+            },
+            {
+                "value": "Sniper"
+            },
+            {
+                "value": "Intimidate",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 203 (15% chance)"
         ],
@@ -4777,17 +4938,24 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Keen Eye",
-            "Sniper",
-            "*Intimidate*"
+            {
+                "value": "Keen Eye"
+            },
+            {
+                "value": "Sniper"
+            },
+            {
+                "value": "Intimidate",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Spearow (Level 20)",
             "Route 210 (North, 20% chance)",
@@ -5009,16 +5177,23 @@
                 "value": 288
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Shed Skin",
-            "*Merciless*"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 212 (South, 15% chance)"
         ],
@@ -5269,16 +5444,23 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Shed Skin",
-            "*Merciless*"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Ekans (Level 22)",
             "Route 212 (South, 5% chance)",
@@ -5553,16 +5735,23 @@
                 "value": 320
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Static",
-            "Lightning Rod",
-            "*Galvanize*"
+            {
+                "value": "Static"
+            },
+            {
+                "value": "Lightning Rod"
+            },
+            {
+                "value": "Galvanize",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Pichu (Happiness)",
             "Trophy Garden (20% chance)"
@@ -5843,16 +6032,23 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Static",
-            "Lightning Rod",
-            "*Galvanize*"
+            {
+                "value": "Static"
+            },
+            {
+                "value": "Lightning Rod"
+            },
+            {
+                "value": "Galvanize",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Pikachu (Use Thunder Stone)"
         ],
@@ -6134,16 +6330,23 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Sand Veil",
-            "*Sand Force*",
-            "Sand Rush"
+            {
+                "value": "Sand Veil"
+            },
+            {
+                "value": "Sand Force",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sand Rush"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Ravaged Path (10% chance)",
             "Wayward Cave (10% chance)"
@@ -6417,16 +6620,23 @@
                 "value": 450
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Sand Veil",
-            "*Sand Force*",
-            "Sand Rush"
+            {
+                "value": "Sand Veil"
+            },
+            {
+                "value": "Sand Force",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sand Rush"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Sandshrew (Level 22)",
             "Route 226 (15% chance)",
@@ -6725,16 +6935,22 @@
                 "value": 275
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Rivalry",
-            "Hustle"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Rivalry"
+            },
+            {
+                "value": "Hustle"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 201 (10% chance)"
         ],
@@ -6969,16 +7185,22 @@
                 "value": 365
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Rivalry",
-            "Hustle"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Rivalry"
+            },
+            {
+                "value": "Hustle"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Nidoran\u2640 (Level 16)",
             "Valor Lakefront (20% chance)",
@@ -7219,17 +7441,24 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "*Mold Breaker*",
-            "Sheer Force"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Mold Breaker",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sheer Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Nidorina (Use Moon Stone)"
         ],
@@ -7564,16 +7793,22 @@
                 "value": 273
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Rivalry",
-            "Hustle"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Rivalry"
+            },
+            {
+                "value": "Hustle"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 201 (10% chance)"
         ],
@@ -7806,16 +8041,22 @@
                 "value": 365
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Rivalry",
-            "Hustle"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Rivalry"
+            },
+            {
+                "value": "Hustle"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Nidoran\u2642 (Level 16)",
             "Valor Lakefront (20% chance)",
@@ -8054,17 +8295,24 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "*Mold Breaker*",
-            "Sheer Force"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Mold Breaker",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sheer Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Nidorino (Use Moon Stone)"
         ],
@@ -8385,16 +8633,22 @@
                 "value": 323
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "Cute Charm",
-            "Magic Guard",
-            "Friend Guard"
+            {
+                "value": "Cute Charm"
+            },
+            {
+                "value": "Magic Guard"
+            },
+            {
+                "value": "Friend Guard"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Cleffa (Happiness)",
             "Mt. Coronet (Route 207 Entrance, Route 211 Tunnel, Route 216 Entrance, B1F, 2F, 3F, 4F, 5F, 6F, 7F, 10% chance)"
@@ -8737,16 +8991,22 @@
                 "value": 480
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "Cute Charm",
-            "Magic Guard",
-            "Unaware"
+            {
+                "value": "Cute Charm"
+            },
+            {
+                "value": "Magic Guard"
+            },
+            {
+                "value": "Unaware"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Clefairy (Use Moon Stone)",
             "Mt. Coronet (Snow Area & Summit, Poke Radar, 22%)"
@@ -9097,16 +9357,23 @@
                 "value": 299
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Drought",
-            "Flash Fire",
-            "*Cursed Body*"
+            {
+                "value": "Drought"
+            },
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Cursed Body",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 209 (10% chance)"
         ],
@@ -9348,17 +9615,31 @@
                 "value": 505
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire>Fire",
-            "**Fairy**"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Fairy"
+            ],
+            "original": [
+                "Fire"
+            ],
+            "changed_which": [
+                1
+            ],
+            "source": "renegade"
+        },
         "abilities": [
-            "Drought",
-            "Flash Fire",
-            "*Cursed Body*"
+            {
+                "value": "Drought"
+            },
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Cursed Body",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Vulpix (Use Fire Stone)"
         ],
@@ -9624,17 +9905,25 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "**Magic Guard**",
-            "Competitive",
-            "*Misty Surge*"
+            {
+                "value": "Magic Guard",
+                "source": "renegade"
+            },
+            {
+                "value": "Competitive"
+            },
+            {
+                "value": "Misty Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Igglybuff (Happiness)",
             "Route 208 (10% chance)"
@@ -9982,17 +10271,25 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "**Magic Guard**",
-            "Competitive",
-            "*Misty Surge*"
+            {
+                "value": "Magic Guard",
+                "source": "renegade"
+            },
+            {
+                "value": "Competitive"
+            },
+            {
+                "value": "Misty Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Jigglypuff (Use Moon Stone)"
         ],
@@ -10327,17 +10624,24 @@
                 "value": 245
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Inner Focus",
-            "*Frisk*",
-            "Infiltrator"
+            {
+                "value": "Inner Focus"
+            },
+            {
+                "value": "Frisk",
+                "source": "luminescent"
+            },
+            {
+                "value": "Infiltrator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Ravaged Path (30% chance)",
             "Oreburgh Gate (1F, B1F, 35% chance, B1F Surf, 90% chance)",
@@ -10579,17 +10883,24 @@
                 "value": 455
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Poison",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Inner Focus",
-            "*Frisk*",
-            "Infiltrator"
+            {
+                "value": "Inner Focus"
+            },
+            {
+                "value": "Frisk",
+                "source": "luminescent"
+            },
+            {
+                "value": "Infiltrator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Zubat (Level 22)",
             "Oreburgh Gate (B1F Surf, 10% chance)",
@@ -10852,17 +11163,25 @@
                 "value": 320
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Run Away**",
-            "*Aroma Veil*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Run Away",
+                "source": "renegade"
+            },
+            {
+                "value": "Aroma Veil",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 204 (North, South, Night only, 10% chance)"
         ],
@@ -11061,17 +11380,25 @@
                 "value": 395
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Stench**",
-            "*Aroma Veil*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Stench",
+                "source": "renegade"
+            },
+            {
+                "value": "Aroma Veil",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Oddish (Level 21)",
             "Route 212 (North, 10% chance)",
@@ -11284,17 +11611,25 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Effect Spore**",
-            "*Aroma Veil*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Effect Spore",
+                "source": "renegade"
+            },
+            {
+                "value": "Aroma Veil",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Gloom (Use Leaf Stone)"
         ],
@@ -11509,17 +11844,25 @@
                 "value": 285
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Grass"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Grass"
+            ]
+        },
         "abilities": [
-            "Effect Spore",
-            "*Damp*",
-            "*Oblivious*"
+            {
+                "value": "Effect Spore"
+            },
+            {
+                "value": "Damp",
+                "source": "luminescent"
+            },
+            {
+                "value": "Oblivious",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Eterna Forest (Morning / Day, 20% chance)"
         ],
@@ -11774,17 +12117,25 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Grass"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Grass"
+            ]
+        },
         "abilities": [
-            "Effect Spore",
-            "*Damp*",
-            "*Oblivious*"
+            {
+                "value": "Effect Spore"
+            },
+            {
+                "value": "Damp",
+                "source": "luminescent"
+            },
+            {
+                "value": "Oblivious",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Paras (Level 24)",
             "Great Marsh (Area 3/4, 30% chance)"
@@ -12050,17 +12401,23 @@
                 "value": 305
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Tinted Lens",
-            "Compound Eyes",
-            "Run Away"
+            {
+                "value": "Tinted Lens"
+            },
+            {
+                "value": "Compound Eyes"
+            },
+            {
+                "value": "Run Away"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 205 (South, Night only, 20% chance)"
         ],
@@ -12268,17 +12625,24 @@
                 "value": 450
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Tinted Lens",
-            "*Compound Eyes*",
-            "Wonder Skin"
+            {
+                "value": "Tinted Lens"
+            },
+            {
+                "value": "Compound Eyes",
+                "source": "luminescent"
+            },
+            {
+                "value": "Wonder Skin"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Venonat (Level 31)",
             "Valor Lakefront (Poke Radar, 22% chance)",
@@ -12548,16 +12912,22 @@
                 "value": 265
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Sand Veil",
-            "Arena Trap",
-            "Sand Force"
+            {
+                "value": "Sand Veil"
+            },
+            {
+                "value": "Arena Trap"
+            },
+            {
+                "value": "Sand Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Gate (1F, B1F, 20% chance)",
             "Maniac Tunnel (25% chance)"
@@ -12778,16 +13148,22 @@
                 "value": 425
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Sand Veil",
-            "Arena Trap",
-            "Sand Force"
+            {
+                "value": "Sand Veil"
+            },
+            {
+                "value": "Arena Trap"
+            },
+            {
+                "value": "Sand Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Diglett (Level 26)",
             "Maniac Tunnel (5% chance)",
@@ -13041,16 +13417,23 @@
                 "value": 290
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Technician",
-            "Pickup",
-            "*Super Luck*"
+            {
+                "value": "Technician"
+            },
+            {
+                "value": "Pickup"
+            },
+            {
+                "value": "Super Luck",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 209 (10% chance)"
         ],
@@ -13314,16 +13697,23 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Technician",
-            "Limber",
-            "*Super Luck*"
+            {
+                "value": "Technician"
+            },
+            {
+                "value": "Limber"
+            },
+            {
+                "value": "Super Luck",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Meowth (Level 28)"
         ],
@@ -13613,16 +14003,22 @@
                 "value": 320
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Damp",
-            "Cloud Nine",
-            "Swift Swim"
+            {
+                "value": "Damp"
+            },
+            {
+                "value": "Cloud Nine"
+            },
+            {
+                "value": "Swift Swim"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Twinleaf Town (Surf, 90% chance)",
             "Lake Verity (10% chance)",
@@ -13899,17 +14295,31 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water>Water",
-            "**Psychic**"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Psychic"
+            ],
+            "original": [
+                "Water"
+            ],
+            "changed_which": [
+                1
+            ],
+            "source": "renegade"
+        },
         "abilities": [
-            "*Hydration*",
-            "Cloud Nine",
-            "Swift Swim"
+            {
+                "value": "Hydration",
+                "source": "luminescent"
+            },
+            {
+                "value": "Cloud Nine"
+            },
+            {
+                "value": "Swift Swim"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Psyduck (Level 33)",
             "Twinleaf Town (Surf, 10% chance)",
@@ -14241,16 +14651,22 @@
                 "value": 305
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Vital Spirit",
-            "Anger Point",
-            "Defiant"
+            {
+                "value": "Vital Spirit"
+            },
+            {
+                "value": "Anger Point"
+            },
+            {
+                "value": "Defiant"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 206 (20% chance)"
         ],
@@ -14539,16 +14955,22 @@
                 "value": 455
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Vital Spirit",
-            "Anger Point",
-            "Defiant"
+            {
+                "value": "Vital Spirit"
+            },
+            {
+                "value": "Anger Point"
+            },
+            {
+                "value": "Defiant"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Mankey (Level 28)",
             "Route 225 (15% chance)"
@@ -14858,16 +15280,23 @@
                 "value": 350
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Flash Fire",
-            "*Ball Fetch*"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Ball Fetch",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 202 (10% chance)"
         ],
@@ -15096,16 +15525,23 @@
                 "value": 555
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Flash Fire",
-            "*Defiant*"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Defiant",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Growlithe (Use Fire Stone)"
         ],
@@ -15378,16 +15814,22 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Damp",
-            "Water Absorb"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Damp"
+            },
+            {
+                "value": "Water Absorb"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Twinleaf Town (Old Rod, Good Rod, 35% chance)",
             "Eterna City (Old Rod, Good Rod, 30% chance)",
@@ -15594,16 +16036,22 @@
                 "value": 385
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Damp",
-            "Water Absorb"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Damp"
+            },
+            {
+                "value": "Water Absorb"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Poliwag (Level 25)",
             "Twinleaf Town (Super Rod, 35% chance)",
@@ -15838,17 +16286,24 @@
                 "value": 510
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "*Iron Fist*",
-            "Water Absorb"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Iron Fist",
+                "source": "luminescent"
+            },
+            {
+                "value": "Water Absorb"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Poliwhirl (Use Water Stone)"
         ],
@@ -16161,16 +16616,23 @@
                 "value": 310
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Magic Guard",
-            "Synchronize",
-            "*Download*"
+            {
+                "value": "Magic Guard"
+            },
+            {
+                "value": "Synchronize"
+            },
+            {
+                "value": "Download",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 203 (10% chance)"
         ],
@@ -16374,16 +16836,23 @@
                 "value": 400
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Magic Guard",
-            "Synchronize",
-            "*Download*"
+            {
+                "value": "Magic Guard"
+            },
+            {
+                "value": "Synchronize"
+            },
+            {
+                "value": "Download",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Abra (Level 16)",
             "Route 215 (15% chance)",
@@ -16669,16 +17138,23 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Magic Guard",
-            "Synchronize",
-            "*Download*"
+            {
+                "value": "Magic Guard"
+            },
+            {
+                "value": "Synchronize"
+            },
+            {
+                "value": "Download",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Kadabra **(Level 36)**"
         ],
@@ -16986,16 +17462,22 @@
                 "value": 305
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Guts",
-            "No Guard",
-            "Steadfast"
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "No Guard"
+            },
+            {
+                "value": "Steadfast"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 207 (30% chance)",
             "Route 211 (East, West, 20% chance)"
@@ -17271,16 +17753,22 @@
                 "value": 405
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Guts",
-            "No Guard",
-            "Steadfast"
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "No Guard"
+            },
+            {
+                "value": "Steadfast"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Machop (Level 28)",
             "Route 210 (North, 10% chance)",
@@ -17563,16 +18051,22 @@
                 "value": 505
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Guts",
-            "No Guard",
-            "Steadfast"
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "No Guard"
+            },
+            {
+                "value": "Steadfast"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Machoke **(Level 36)**"
         ],
@@ -17871,17 +18365,25 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Gluttony**",
-            "*Corrosion*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Gluttony",
+                "source": "renegade"
+            },
+            {
+                "value": "Corrosion",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "` `Route 204 (North, South, 10% chance)"
         ],
@@ -18094,17 +18596,25 @@
                 "value": 390
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Gluttony**",
-            "*Corrosion*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Gluttony",
+                "source": "renegade"
+            },
+            {
+                "value": "Corrosion",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Bellsprout (Level 21)",
             "Route 212 (North, South, 10% chance)",
@@ -18320,17 +18830,25 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "**Gluttony**",
-            "*Corrosion*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Gluttony",
+                "source": "renegade"
+            },
+            {
+                "value": "Corrosion",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Weepinbell (Use Leaf Stone)"
         ],
@@ -18583,17 +19101,24 @@
                 "value": 335
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Liquid Ooze",
-            "Rain Dish",
-            "*Merciless*"
+            {
+                "value": "Liquid Ooze"
+            },
+            {
+                "value": "Rain Dish"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Valley Windworks (Surf, 30% chance)",
             "Route 205 (South Surf, 30% chance)",
@@ -18850,17 +19375,24 @@
                 "value": 515
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Liquid Ooze",
-            "Rain Dish",
-            "*Merciless*"
+            {
+                "value": "Liquid Ooze"
+            },
+            {
+                "value": "Rain Dish"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Tentacool (Level 30)",
             "Valley Windworks (Surf, 5% chance)",
@@ -19144,17 +19676,24 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Sturdy",
-            "*Sand Force*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Sand Force",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Ravaged Path (20% chance)",
             "Oreburgh Gate (1F, B1F, 35% chance)",
@@ -19401,17 +19940,24 @@
                 "value": 390
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Sturdy",
-            "*Sand Force*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Sand Force",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Geodude (Level 25)",
             "Route 214 (30% chance)",
@@ -19665,17 +20211,24 @@
                 "value": 495
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Sturdy",
-            "*Sand Force*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Sand Force",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Graveler **(Level 36)**"
         ],
@@ -19958,16 +20511,23 @@
                 "value": 410
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Flame Body",
-            "Flash Fire",
-            "*Reckless*"
+            {
+                "value": "Flame Body"
+            },
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Reckless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 207 (20% chance)"
         ],
@@ -20170,16 +20730,23 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Flame Body",
-            "Flash Fire",
-            "*Reckless*"
+            {
+                "value": "Flame Body"
+            },
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Reckless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Ponyta **(Level 35)**",
             "Route 210 (South, 5% chance)",
@@ -20428,17 +20995,23 @@
                 "value": 315
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Oblivious",
-            "Own Tempo",
-            "Regenerator"
+            {
+                "value": "Oblivious"
+            },
+            {
+                "value": "Own Tempo"
+            },
+            {
+                "value": "Regenerator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 205 (North, 20% chance)"
         ],
@@ -20727,17 +21300,23 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Oblivious",
-            "Own Tempo",
-            "Regenerator"
+            {
+                "value": "Oblivious"
+            },
+            {
+                "value": "Own Tempo"
+            },
+            {
+                "value": "Regenerator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Slowpoke **(Level 33)**"
         ],
@@ -21074,17 +21653,23 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric",
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Electric",
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Magnet Pull",
-            "Sturdy",
-            "Analytic"
+            {
+                "value": "Magnet Pull"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Analytic"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Valley Windworks (20% chance)",
             "Fuego Ironworks (30% chance)"
@@ -21308,17 +21893,23 @@
                 "value": 465
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric",
-            "Steel"
-        ],
+        "type": {
+            "value": [
+                "Electric",
+                "Steel"
+            ]
+        },
         "abilities": [
-            "Magnet Pull",
-            "Sturdy",
-            "Analytic"
+            {
+                "value": "Magnet Pull"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Analytic"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Magnemite (Level 30)",
             "Fuego Ironworks (20% chance)",
@@ -21581,18 +22172,32 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying>**Fighting**",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Fighting",
+                "Flying"
+            ],
+            "original": [
+                "Normal",
+                "Flying"
+            ],
+            "changed_which": [
+                0
+            ],
+            "source": "renegade"
+        },
         "abilities": [
-            "**Super Luck**",
-            "Keen Eye",
-            "Defiant"
+            {
+                "value": "Super Luck",
+                "source": "renegade"
+            },
+            {
+                "value": "Keen Eye"
+            },
+            {
+                "value": "Defiant"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 205 (North Honey Tree, 10% chance)",
             "Route 209 (Honey Tree, 10% chance)",
@@ -21853,17 +22458,25 @@
                 "value": 310
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Tangled Feet",
-            "*Unburden*",
-            "*Moxie*"
+            {
+                "value": "Tangled Feet"
+            },
+            {
+                "value": "Unburden",
+                "source": "luminescent"
+            },
+            {
+                "value": "Moxie",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 201 (Poke Radar, 22% chance)"
         ],
@@ -22055,17 +22668,26 @@
                 "value": 470
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Normal",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "**Tangled Feet**",
-            "*Unburden*",
-            "*Moxie*"
+            {
+                "value": "Tangled Feet",
+                "source": "renegade"
+            },
+            {
+                "value": "Unburden",
+                "source": "luminescent"
+            },
+            {
+                "value": "Moxie",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Doduo (Level 31)",
             "Route 221 (10% chance)",
@@ -22291,16 +22913,23 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Thick Fat",
-            "*Swift Swim*",
-            "Ice Body"
+            {
+                "value": "Thick Fat"
+            },
+            {
+                "value": "Swift Swim",
+                "source": "luminescent"
+            },
+            {
+                "value": "Ice Body"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Mt Coronet (B1F Surf, 30% chance)"
         ],
@@ -22533,17 +23162,25 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Ice"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Ice"
+            ]
+        },
         "abilities": [
-            "Thick Fat",
-            "*Swift Swim*",
-            "*Snow Warning*"
+            {
+                "value": "Thick Fat"
+            },
+            {
+                "value": "Swift Swim",
+                "source": "luminescent"
+            },
+            {
+                "value": "Snow Warning",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Seel (Level 34)",
             "Lake Acuity (Surf, 35% chance)",
@@ -22812,16 +23449,23 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Stench",
-            "*Gooey*",
-            "Poison Touch"
+            {
+                "value": "Stench"
+            },
+            {
+                "value": "Gooey",
+                "source": "luminescent"
+            },
+            {
+                "value": "Poison Touch"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 212 (South, 20% chance)"
         ],
@@ -23086,16 +23730,23 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Stench",
-            "*Gooey*",
-            "Poison Touch"
+            {
+                "value": "Stench"
+            },
+            {
+                "value": "Gooey",
+                "source": "luminescent"
+            },
+            {
+                "value": "Poison Touch"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Grimer **(Level 35)**",
             "Route 212 (South Poke Radar, 11% chance)",
@@ -23406,16 +24057,23 @@
                 "value": 305
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Skill Link",
-            "Shell Armor",
-            "*Ice Body*"
+            {
+                "value": "Skill Link"
+            },
+            {
+                "value": "Shell Armor"
+            },
+            {
+                "value": "Ice Body",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Valley Windworks (Old Rod, Good Rod, 30% chance)",
             "Route 205 (South, Old Rod, Good Rod, 30% chance)",
@@ -23620,17 +24278,24 @@
                 "value": 525
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Ice"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Ice"
+            ]
+        },
         "abilities": [
-            "Skill Link",
-            "Shell Armor",
-            "*Ice Body*"
+            {
+                "value": "Skill Link"
+            },
+            {
+                "value": "Shell Armor"
+            },
+            {
+                "value": "Ice Body",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Shellder (Use Water Stone)",
             "Valley Windworks (Super Rod, 30% chance)",
@@ -23887,17 +24552,25 @@
                 "value": 310
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ghost",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Ghost",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Levitate",
-            "*Cursed Body*",
-            "*Merciless*"
+            {
+                "value": "Levitate"
+            },
+            {
+                "value": "Cursed Body",
+                "source": "luminescent"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Old Chateau (40% chance)"
         ],
@@ -24145,17 +24818,25 @@
                 "value": 405
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ghost",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Ghost",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Levitate",
-            "*Cursed Body*",
-            "*Merciless*"
+            {
+                "value": "Levitate"
+            },
+            {
+                "value": "Cursed Body",
+                "source": "luminescent"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Gastly (Level 25)",
             "Old Chateau (5% chance)",
@@ -24427,17 +25108,25 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ghost",
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Ghost",
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Levitate",
-            "*Cursed Body*",
-            "*Merciless*"
+            {
+                "value": "Levitate"
+            },
+            {
+                "value": "Cursed Body",
+                "source": "luminescent"
+            },
+            {
+                "value": "Merciless",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Haunter **(Level 36)**",
             "Old Chateau (Room with Painting, One-time, Static Encounter)"
@@ -24756,17 +25445,23 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Sturdy",
-            "Weak Armor"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Sturdy"
+            },
+            {
+                "value": "Weak Armor"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Mine (1F, B1F, 10% chance)",
             "Wayward Cave (10% chance)"
@@ -25014,16 +25709,24 @@
                 "value": 328
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Insomnia",
-            "*No Guard*",
-            "*Psychic Surge*"
+            {
+                "value": "Insomnia"
+            },
+            {
+                "value": "No Guard",
+                "source": "luminescent"
+            },
+            {
+                "value": "Psychic Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 215 (20% chance)"
         ],
@@ -25292,16 +25995,24 @@
                 "value": 483
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Insomnia",
-            "*No Guard*",
-            "*Psychic Surge*"
+            {
+                "value": "Insomnia"
+            },
+            {
+                "value": "No Guard",
+                "source": "luminescent"
+            },
+            {
+                "value": "Psychic Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Drowzee (Level 26)",
             "Route 215 (5% chance)"
@@ -25607,16 +26318,23 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Hyper Cutter",
-            "*Tough Claws*",
-            "Sheer Force"
+            {
+                "value": "Hyper Cutter"
+            },
+            {
+                "value": "Tough Claws",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sheer Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 219 (Old Rod, Good Rod, 60% chance)",
             "Route 221 (Old Rod, Good Rod, 60% chance)",
@@ -25879,16 +26597,23 @@
                 "value": 475
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Hyper Cutter",
-            "*Tough Claws*",
-            "Sheer Force"
+            {
+                "value": "Hyper Cutter"
+            },
+            {
+                "value": "Tough Claws",
+                "source": "luminescent"
+            },
+            {
+                "value": "Sheer Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Krabby (Level 28)",
             "Celestic Town (Super Rod, 60% chance)",
@@ -26193,16 +26918,23 @@
                 "value": 330
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Soundproof",
-            "Aftermath",
-            "*Electric Surge*"
+            {
+                "value": "Soundproof"
+            },
+            {
+                "value": "Aftermath"
+            },
+            {
+                "value": "Electric Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Valley Windworks (20% chance)"
         ],
@@ -26417,16 +27149,23 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Soundproof",
-            "Aftermath",
-            "*Electric Surge*"
+            {
+                "value": "Soundproof"
+            },
+            {
+                "value": "Aftermath"
+            },
+            {
+                "value": "Electric Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Voltorb (Level 30)",
             "Route 218 (10% chance)"
@@ -26658,17 +27397,24 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "Harvest",
-            "*Ripen*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Harvest"
+            },
+            {
+                "value": "Ripen",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Floaroma Meadow (Honey Tree, 20% chance)",
             "Route 205 (North, 10% chance)",
@@ -26930,17 +27676,24 @@
                 "value": 530
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Grass",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "Harvest",
-            "*Ripen*"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Harvest"
+            },
+            {
+                "value": "Ripen",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Exeggcute (Use Leaf Stone)"
         ],
@@ -27201,16 +27954,23 @@
                 "value": 320
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Battle Armor",
-            "*Rattled*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Battle Armor"
+            },
+            {
+                "value": "Rattled",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 203 (10% chance)"
         ],
@@ -27476,16 +28236,23 @@
                 "value": 425
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground"
-        ],
+        "type": {
+            "value": [
+                "Ground"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Battle Armor",
-            "*Technician*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Battle Armor"
+            },
+            {
+                "value": "Technician",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Cubone (Level 28)",
             "Victory Road (2F, 10% chance)"
@@ -27772,16 +28539,22 @@
                 "value": 455
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Reckless",
-            "Limber",
-            "Unburden"
+            {
+                "value": "Reckless"
+            },
+            {
+                "value": "Limber"
+            },
+            {
+                "value": "Unburden"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Tyrogue (Level 20, Atk higher than Def)"
         ],
@@ -28038,16 +28811,22 @@
                 "value": 455
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fighting"
-        ],
+        "type": {
+            "value": [
+                "Fighting"
+            ]
+        },
         "abilities": [
-            "Iron Fist",
-            "Keen Eye",
-            "Inner Focus"
+            {
+                "value": "Iron Fist"
+            },
+            {
+                "value": "Keen Eye"
+            },
+            {
+                "value": "Inner Focus"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Tyrogue (Level 20, Def higher than Atk)"
         ],
@@ -28320,16 +29099,23 @@
                 "value": 385
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Oblivious",
-            "*Gluttony*",
-            "Cloud Nine"
+            {
+                "value": "Oblivious"
+            },
+            {
+                "value": "Gluttony",
+                "source": "luminescent"
+            },
+            {
+                "value": "Cloud Nine"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 215 (15% chance)",
             "Lake Valor (10% chance)",
@@ -28619,16 +29405,22 @@
                 "value": 340
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Levitate",
-            "Neutralizing Gas",
-            "Stench"
+            {
+                "value": "Levitate"
+            },
+            {
+                "value": "Neutralizing Gas"
+            },
+            {
+                "value": "Stench"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 212 (South, 15% chance)"
         ],
@@ -28876,16 +29668,22 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Poison"
-        ],
+        "type": {
+            "value": [
+                "Poison"
+            ]
+        },
         "abilities": [
-            "Levitate",
-            "Neutralizing Gas",
-            "Stench"
+            {
+                "value": "Levitate"
+            },
+            {
+                "value": "Neutralizing Gas"
+            },
+            {
+                "value": "Stench"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Koffing (Level 35)",
             "Route 212 (South Poke Radar, 11% chance)",
@@ -29165,17 +29963,25 @@
                 "value": 345
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground",
-            "Rock"
-        ],
+        "type": {
+            "value": [
+                "Ground",
+                "Rock"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "**Reckless**",
-            "*Sheer Force*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Reckless",
+                "source": "renegade"
+            },
+            {
+                "value": "Sheer Force",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 207 (20% chance)",
             "Route 214 (15% chance)"
@@ -29453,17 +30259,25 @@
                 "value": 485
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ground",
-            "Rock"
-        ],
+        "type": {
+            "value": [
+                "Ground",
+                "Rock"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "**Reckless**",
-            "*Sheer Force*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Reckless",
+                "source": "renegade"
+            },
+            {
+                "value": "Sheer Force",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Rhyhorn **(Level 36)**",
             "Iron Island (1F, B1F, B2F, B3F, 5% chance)",
@@ -29804,16 +30618,22 @@
                 "value": 450
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Serene Grace",
-            "Natural Cute",
-            "Healer"
+            {
+                "value": "Serene Grace"
+            },
+            {
+                "value": "Natural Cute"
+            },
+            {
+                "value": "Healer"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Happiny (Level up holding Oval Stone during daytime)",
             "Route 209 (10% chance)"
@@ -30195,16 +31015,22 @@
                 "value": 435
             }
         },
-        "type_notes": null,
-        "type": [
-            "Grass"
-        ],
+        "type": {
+            "value": [
+                "Grass"
+            ]
+        },
         "abilities": [
-            "Chlorophyll",
-            "Leaf Guard",
-            "Regenerator"
+            {
+                "value": "Chlorophyll"
+            },
+            {
+                "value": "Leaf Guard"
+            },
+            {
+                "value": "Regenerator"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Floaroma Meadow (Honey Tree, 10% chance)",
             "Route 208 (Honey Tree, 10% chance)",
@@ -30447,16 +31273,23 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Scrappy",
-            "Early Bird",
-            "*Parental Bond*"
+            {
+                "value": "Scrappy"
+            },
+            {
+                "value": "Early Bird"
+            },
+            {
+                "value": "Parental Bond",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Great Marsh (Area 3/4, 10% chance)"
         ],
@@ -30787,16 +31620,22 @@
                 "value": 295
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Sniper",
-            "Damp"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Sniper"
+            },
+            {
+                "value": "Damp"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 210 (North Old Rod, North Good Rod, 30% chance)",
             "Route 219 (Any Rod, 30% chance)",
@@ -31013,16 +31852,22 @@
                 "value": 440
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Poison Point",
-            "Sniper",
-            "Damp"
+            {
+                "value": "Poison Point"
+            },
+            {
+                "value": "Sniper"
+            },
+            {
+                "value": "Damp"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Horsea (Level 32)",
             "Route 210 (North Super Rod, 30% chance)",
@@ -31262,16 +32107,22 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Water Veil",
-            "Lightning Rod"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Water Veil"
+            },
+            {
+                "value": "Lightning Rod"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 204 (South Old Rod, South Good Rod, 30% chance)",
             "Route 208 (Old Rod, Good Rod, 30% chance)",
@@ -31506,16 +32357,23 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "*Water Absorb*",
-            "Lightning Rod"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Water Absorb",
+                "source": "luminescent"
+            },
+            {
+                "value": "Lightning Rod"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Goldeen (Level 33)",
             "Route 204 (South Super Rod, 30% chance)",
@@ -31751,16 +32609,23 @@
                 "value": 340
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Natural Cure",
-            "Analytic",
-            "*Regenerator*"
+            {
+                "value": "Natural Cure"
+            },
+            {
+                "value": "Analytic"
+            },
+            {
+                "value": "Regenerator",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 218 (Old Rod, Good Rod, 10% chance)",
             "Canalave City (Old Rod, Good Rod, 10% chance)",
@@ -32005,17 +32870,24 @@
                 "value": 520
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Natural Cure",
-            "Analytic",
-            "*Regenerator*"
+            {
+                "value": "Natural Cure"
+            },
+            {
+                "value": "Analytic"
+            },
+            {
+                "value": "Regenerator",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Staryu (Use Water Stone)",
             "Route 218 (Super Rod, 10% chance)",
@@ -32267,17 +33139,24 @@
                 "changed_by": "both"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic",
-            "Fairy"
-        ],
+        "type": {
+            "value": [
+                "Psychic",
+                "Fairy"
+            ]
+        },
         "abilities": [
-            "Filter",
-            "Technician",
-            "*Misty Surge*"
+            {
+                "value": "Filter"
+            },
+            {
+                "value": "Technician"
+            },
+            {
+                "value": "Misty Surge",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Mime Jr. (Level Up with Mimic learnt)",
             "Route 218 (10% chance)",
@@ -32626,17 +33505,24 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Bug",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Technician",
-            "Swarm",
-            "*Hyper Cutter*"
+            {
+                "value": "Technician"
+            },
+            {
+                "value": "Swarm"
+            },
+            {
+                "value": "Hyper Cutter",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 210 (South, 15% chance)",
             "Route 229 (20% chance)"
@@ -32897,17 +33783,24 @@
                 "changed_by": "renegade"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Dry Skin",
-            "Forewarn",
-            "*Dazzling*"
+            {
+                "value": "Dry Skin"
+            },
+            {
+                "value": "Forewarn"
+            },
+            {
+                "value": "Dazzling",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Smoochum (Level 30)",
             "Route 217 (10% chance)",
@@ -33225,16 +34118,23 @@
                 "value": 490
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Static",
-            "Vital Spirit",
-            "*Iron Fist*"
+            {
+                "value": "Static"
+            },
+            {
+                "value": "Vital Spirit"
+            },
+            {
+                "value": "Iron Fist",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Elekid (Level 30)",
             "Route 218 (10% chance)",
@@ -33497,16 +34397,23 @@
                 "value": 495
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Flame Body",
-            "*Flash Fire*",
-            "Vital Spirit"
+            {
+                "value": "Flame Body"
+            },
+            {
+                "value": "Flash Fire",
+                "source": "luminescent"
+            },
+            {
+                "value": "Vital Spirit"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Magby (Level 30)",
             "Fuego Ironworks (20% chance)",
@@ -33768,16 +34675,23 @@
                 "value": 500
             }
         },
-        "type_notes": null,
-        "type": [
-            "Bug"
-        ],
+        "type": {
+            "value": [
+                "Bug"
+            ]
+        },
         "abilities": [
-            "*Guts*",
-            "Mold Breaker",
-            "Moxie"
+            {
+                "value": "Guts",
+                "source": "luminescent"
+            },
+            {
+                "value": "Mold Breaker"
+            },
+            {
+                "value": "Moxie"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 210 (South, 10% chance)",
             "Route 229 (10% chance)"
@@ -34059,16 +34973,22 @@
                 "changed_by": "luminescent"
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Anger Point",
-            "Sheer Force"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Anger Point"
+            },
+            {
+                "value": "Sheer Force"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Route 210 (South, 10% chance)"
         ],
@@ -34331,16 +35251,22 @@
                 "value": 200
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Swift Swim",
-            "Rattled"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Rattled"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Why are you looking up in a guide where to catch this, it\u2019s everywhere.",
             "Where It's Not Located: The Feebas Pool."
@@ -34395,17 +35321,23 @@
                 "value": 540
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Intimidate",
-            "Intimidate",
-            "Moxie"
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Intimidate"
+            },
+            {
+                "value": "Moxie"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Magikarp (Level 20)",
             "+ see above"
@@ -34701,17 +35633,23 @@
                 "value": 535
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water",
-            "Ice"
-        ],
+        "type": {
+            "value": [
+                "Water",
+                "Ice"
+            ]
+        },
         "abilities": [
-            "Water Absorb",
-            "Shell Armor",
-            "Hydration"
+            {
+                "value": "Water Absorb"
+            },
+            {
+                "value": "Shell Armor"
+            },
+            {
+                "value": "Hydration"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Pastoria City (Gift)",
             "Lake Acuity (Surf, 5% chance)",
@@ -34984,16 +35922,22 @@
                 "value": 288
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Imposus",
-            "Amogus",
-            "Imposter"
+            {
+                "value": "Imposus"
+            },
+            {
+                "value": "Amogus"
+            },
+            {
+                "value": "Imposter"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Maniac Tunnel (10% chance)",
             "Route 218 (10% chance)"
@@ -35036,16 +35980,23 @@
                 "value": 325
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Run Away",
-            "Adaptability",
-            "*Cloud Nine*"
+            {
+                "value": "Run Away"
+            },
+            {
+                "value": "Adaptability"
+            },
+            {
+                "value": "Cloud Nine",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Twinleaf Town (Gift)",
             "Trophy Garden (10% chance)"
@@ -35246,16 +36197,23 @@
                 "value": 525
             }
         },
-        "type_notes": null,
-        "type": [
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Water"
+            ]
+        },
         "abilities": [
-            "Water Absorb",
-            "Hydration",
-            "*Rain Dish*"
+            {
+                "value": "Water Absorb"
+            },
+            {
+                "value": "Hydration"
+            },
+            {
+                "value": "Rain Dish",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Eevee (Use Water Stone)"
         ],
@@ -35543,16 +36501,24 @@
                 "value": 525
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric"
-        ],
+        "type": {
+            "value": [
+                "Electric"
+            ]
+        },
         "abilities": [
-            "Volt Absorb",
-            "*Battery*",
-            "*Competitive*"
+            {
+                "value": "Volt Absorb"
+            },
+            {
+                "value": "Battery",
+                "source": "luminescent"
+            },
+            {
+                "value": "Competitive",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Eevee (Use Thunder Stone)"
         ],
@@ -35848,16 +36814,22 @@
                 "value": 525
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire"
-        ],
+        "type": {
+            "value": [
+                "Fire"
+            ]
+        },
         "abilities": [
-            "Flash Fire",
-            "Guts",
-            "Quick Feet"
+            {
+                "value": "Flash Fire"
+            },
+            {
+                "value": "Guts"
+            },
+            {
+                "value": "Quick Feet"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Eevee (Use Fire Stone)"
         ],
@@ -36137,16 +37109,22 @@
                 "value": 395
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Trace",
-            "Download",
-            "Analytic"
+            {
+                "value": "Trace"
+            },
+            {
+                "value": "Download"
+            },
+            {
+                "value": "Analytic"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Eterna Galactic Building (Gift)",
             "Trophy Garden (10% chance)"
@@ -36390,17 +37368,23 @@
                 "value": 355
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Shell Armor",
-            "Weak Armor"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Shell Armor"
+            },
+            {
+                "value": "Weak Armor"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Museum (Fossil Restoration)"
         ],
@@ -36653,17 +37637,23 @@
                 "value": 495
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Shell Armor",
-            "Weak Armor"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Shell Armor"
+            },
+            {
+                "value": "Weak Armor"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Omanyte **(Level 30)**"
         ],
@@ -36968,17 +37958,23 @@
                 "value": 355
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Battle Armor",
-            "Weak Armor"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Battle Armor"
+            },
+            {
+                "value": "Weak Armor"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Museum (Fossil Restoration)"
         ],
@@ -37234,17 +38230,23 @@
                 "value": 495
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Water"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Water"
+            ]
+        },
         "abilities": [
-            "Swift Swim",
-            "Battle Armor",
-            "Weak Armor"
+            {
+                "value": "Swift Swim"
+            },
+            {
+                "value": "Battle Armor"
+            },
+            {
+                "value": "Weak Armor"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Kabuto **(Level 30)**"
         ],
@@ -37552,17 +38554,24 @@
                 "value": 515
             }
         },
-        "type_notes": null,
-        "type": [
-            "Rock",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Rock",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Rock Head",
-            "Pressure",
-            "*Strong Jaw*"
+            {
+                "value": "Rock Head"
+            },
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Strong Jaw",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Museum (Fossil Restoration)"
         ],
@@ -37854,16 +38863,22 @@
                 "value": 540
             }
         },
-        "type_notes": null,
-        "type": [
-            "Normal"
-        ],
+        "type": {
+            "value": [
+                "Normal"
+            ]
+        },
         "abilities": [
-            "Thick Fat",
-            "Immunity",
-            "Gluttony"
+            {
+                "value": "Thick Fat"
+            },
+            {
+                "value": "Immunity"
+            },
+            {
+                "value": "Gluttony"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Munchlax (Happiness)",
             "Route 222 (Honey Tree, 10% chance)"
@@ -38211,17 +39226,25 @@
                 "value": 580
             }
         },
-        "type_notes": null,
-        "type": [
-            "Ice",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Ice",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Pressure",
-            "*Ice Body*",
-            "*Snow Warning*"
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Ice Body",
+                "source": "luminescent"
+            },
+            {
+                "value": "Snow Warning",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Mt. Coronet (Summit, Static Encounter)"
         ],
@@ -38452,17 +39475,24 @@
                 "value": 580
             }
         },
-        "type_notes": null,
-        "type": [
-            "Electric",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Electric",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Pressure",
-            "Static",
-            "*Lightning Rod*"
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Static"
+            },
+            {
+                "value": "Lightning Rod",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Valley Windworks (Static Encounter)"
         ],
@@ -38701,17 +39731,24 @@
                 "value": 580
             }
         },
-        "type_notes": null,
-        "type": [
-            "Fire",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Fire",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "Pressure",
-            "Flame Body",
-            "*Competitive*"
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Flame Body"
+            },
+            {
+                "value": "Competitive",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Victory Road (Static Encounter)"
         ],
@@ -38954,16 +39991,23 @@
                 "value": 300
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dragon"
-        ],
+        "type": {
+            "value": [
+                "Dragon"
+            ]
+        },
         "abilities": [
-            "Marvel Scale",
-            "Shed Skin",
-            "*Multiscale*"
+            {
+                "value": "Marvel Scale"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Multiscale",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Eterna City (Old Rod, Good Rod, 10% chance)",
             "Route 210 (North Old Rod, North Good Rod, 10% chance)",
@@ -39209,16 +40253,23 @@
                 "value": 420
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dragon"
-        ],
+        "type": {
+            "value": [
+                "Dragon"
+            ]
+        },
         "abilities": [
-            "Marvel Scale",
-            "Shed Skin",
-            "*Multiscale*"
+            {
+                "value": "Marvel Scale"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Multiscale",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Dratini (Level 30)",
             "Eterna City (Super Rod, 10% chance)",
@@ -39469,17 +40520,24 @@
                 "value": 600
             }
         },
-        "type_notes": null,
-        "type": [
-            "Dragon",
-            "Flying"
-        ],
+        "type": {
+            "value": [
+                "Dragon",
+                "Flying"
+            ]
+        },
         "abilities": [
-            "*Marvel Scale*",
-            "Shed Skin",
-            "Multiscale"
+            {
+                "value": "Marvel Scale",
+                "source": "luminescent"
+            },
+            {
+                "value": "Shed Skin"
+            },
+            {
+                "value": "Multiscale"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Evolve Dragonair (Level 55)"
         ],
@@ -39831,16 +40889,22 @@
                 "value": 680
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Pressure",
-            "Pressure",
-            "Unnerve"
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Pressure"
+            },
+            {
+                "value": "Unnerve"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Oreburgh Gate (B1F, Static Encounter)"
         ],
@@ -40211,16 +41275,23 @@
                 "value": 600
             }
         },
-        "type_notes": null,
-        "type": [
-            "Psychic"
-        ],
+        "type": {
+            "value": [
+                "Psychic"
+            ]
+        },
         "abilities": [
-            "Synchronize",
-            "Synchronize",
-            "*Trace*"
+            {
+                "value": "Synchronize"
+            },
+            {
+                "value": "Synchronize"
+            },
+            {
+                "value": "Trace",
+                "source": "luminescent"
+            }
         ],
-        "ability_notes": null,
         "location": [
             "Event quest."
         ],
