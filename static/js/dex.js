@@ -79,28 +79,28 @@ function renderType(entry) {
     const changed_which = typeData["changed_which"] || []
     const cls0 = changed_which.includes(0) ? cls : ''
     const cls1 = changed_which.includes(1) ? cls : ''
-    const notesAddon = hasNotes ? `*` : ''
+    const notesAddon = hasNotes ? `<span class="tooltip" title="${entry["type_notes"]}">*</span>` : ''
     return `<td><span class="${cls0}">${ typeData['value'][0] }</span></td>
             <td><span class="${cls1}">${ typeData['value'][1] || '' }</span>${notesAddon}</td>
             `
 }
 
 function renderAbilities(entry) {
-    const abilities = entry["abilities"]
-    const hasNotes = "ability_notes" in entry
-    let out = "<td>"
+    const abilities = entry["abilities"];
+    const hasNotes = "ability_notes" in entry;
+    let out = "<td>";
     out += abilities.map(ability => {
-        const cls = ("source" in ability) ? `ab-from-${ability["source"]}` : ""
-        const val = ability['value']
-        const bulbapedia_link = `https://bulbapedia.bulbagarden.net/wiki/${val.replace(" ", "_")}_(Ability)`
-        return `<span class="${cls}"><a href="${bulbapedia_link}">${val}</a></span>`
+        const cls = ("source" in ability) ? `ab-from-${ability["source"]}` : "";
+        const val = ability['value'];
+        const bulbapedia_link = `https://bulbapedia.bulbagarden.net/wiki/${val.replace(" ", "_")}_(Ability)`;
+        return `<span class="${cls}"><a href="${bulbapedia_link}">${val}</a></span>`;
     }).join(", ");
     if (hasNotes) {
-        const abilityNotes = entry["ability_notes"]
-        out += "*"
+        const abilityNotes = entry["ability_notes"];
+        out += `<span class="tooltip" title="${abilityNotes}">*</span>`;
     }
-    out += "</td>"
-    return out
+    out += "</td>";
+    return out;
 }
 
 function titleCase(str) {
