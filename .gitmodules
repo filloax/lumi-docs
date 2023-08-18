@@ -1,0 +1,3 @@
+[submodule "Lumibot"]
+	path = Lumibot
+	url = https://github.com/TeamLumi/Lumibot
