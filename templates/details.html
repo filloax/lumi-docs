@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pokemon Details</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/fonts.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/details.css') }}" />
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/custom.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/collapsible.css') }}">
+        <script type="text/javascript" src="{{ url_for('static', filename='js/collapsible.js') }}"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/details.js') }}"></script>
+    </head>
+    <body>
+        <div class="pokemon-details">
+            <div class="back"><a href="/">Back</a></div>
+            <img class="poke-img" src="{{ url_for('static', filename=pokemon['image']) }}" />
+            <h1>
+                <span class="number">{{ pokemon['num'] }}</span> - {{ pokemon['name'] }} {{ pokemon['region'] }} 
+                {% if pokemon['form'] %}({{ pokemon['form'] | capitalize }}){% endif %}
+            </h1>
+            <div class="types">
+              {% if pokemon['type']['original'] %}
+              <div class="type-container">
+                {% for type in pokemon['type']['original'] %}
+                  <div class="details-type type-{{ type.lower()  }}">
+                      {{ type }}
+                  </div>
+                {% endfor %}
+              </div>
+              <div class="type-change-marker">></div>
+              {% endif %}
+              <div class="type-container">
+                  {% for type in pokemon['type']['value'] %}
+                  <div class="details-type type-{{ type.lower()  }}">
+                      {{ type }}
+                  </div>
+                  {% endfor %}
+              </div>
+            </div>
+            <br>
+            <div class="abilities">
+                <h3>Abilities</h3>
+                <div class="abilities-container">
+                {% for ability in pokemon['abilities'] %}
+                  {% set bulbapedia_link = 'https://bulbapedia.bulbagarden.net/wiki/' + ability["value"].replace(" ", "_") + '_(Ability)' %}
+                  {% set classes = "details-ability" %}
+                  {% if ability['source'] %}
+                    {% set classes = classes + " ability-" + ability['source'] %}
+                  {% endif %}
+                  <div class="{{classes}}"><a href="{{ bulbapedia_link }}">{{ ability['value'] }}</a></div>
+                {% endfor %}
+                </div>
+            </div>
+            <!-- Add more info sections here as needed -->
+
+            <h3>Moves</h3>
+            <div class="moves-list">
+                <h4 class="collapsible-button">Level up</h4>
+                <table class="collapsible">
+                    <thead>
+                        <tr>
+                            <td>Level</td>
+                            <td>Move</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for move in pokemon['moves']['level'] %}
+                        {% set level = move['level'] if move['level'] != 0 else 'Evo' %}
+                        <tr><td class="number move-level">{{ level }}</td><td class="move">{{ move['move'] }}</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="moves-list">
+                <h4 class="collapsible-button hidden">TM</h4>
+                <table class="collapsible hidden">
+                    <thead>
+                        <tr>
+                            <td>TM</td>
+                            <td>Move</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for move in pokemon['moves']['tm'] %}
+                        <tr><td>TM{{ '%02d'|format(move['tm']) }}</td><td class="move">{{ move['move'] }}</td>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <div class="moves-list">
+                <h4 class="collapsible-button hidden">Egg Moves</h4>
+                <table class="collapsible hidden">
+                    <thead>
+                        <tr>
+                            <td>TM</td>
+                            <td>Move</td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for move in pokemon['moves']['egg'] %}
+                        <td class="move">{{ move }}</td>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+            <!-- Add more move lists or other sections here -->
+        </div>
+    </body>
+</html>

@@ -60,9 +60,13 @@ function renderData(data) {
         const regionSuffix = (entry['region']) ? `-${entry['region']}` : ''
         "".toC
         const formSuffix = (entry['form']) ? ` (${titleCase(entry['form'])})` : ''
+        let url = `/details/${entry['num']}/${entry['name']}`
+        if ('form' in entry || 'region' in entry) {
+            url += `/${entry['form'] || entry['region']}`
+        }
         row.innerHTML = `
             <td>${ entry['num'] }</td>
-            <td>${ entry['name'] }${ regionSuffix }${formSuffix}</td>
+            <td><a href="${url}">${ entry['name'] }${ regionSuffix }${formSuffix}</a></td>
             ${ renderType(entry) }
             ${ renderAbilities(entry) }
             ${statPart}

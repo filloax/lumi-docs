@@ -1,0 +1,125 @@
+body {
+    font-family: 'Absolut Pro';
+    background-color: #1a1a1a;
+    color: #ffffff;
+    padding: 20px;
+}
+
+.pokemon-details {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #252525;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.poke-img {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+
+.types {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.type-container {
+    display: flex;
+    /* justify-content: space-between; */
+    /* margin: auto; */
+}
+
+.type-change-marker {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin: 0 5px 0 2px;
+}
+
+.details-type {
+    border-radius: 8px;
+    padding: 3px;
+    text-transform: uppercase;
+    width: 150px;
+    margin-right: 5px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.abilities-container {
+    display: flex;
+}
+
+.details-ability {
+    border-radius: 8px;
+    padding: 6px;
+    background-color: #505050;
+    margin-right: 5px;
+    text-align: center;
+}
+.details-ability.ability-luminescent {
+    background-color: #273116;
+}
+.details-ability.ability-renegade {
+    background-color: #361616;
+}
+.details-ability a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.move-level {
+    text-align: center;
+}
+.move a {
+    color: inherit;
+    text-decoration: none;
+}
+.moves-list table {
+    border-collapse: collapse;
+}
+.moves-list td {
+    border:1px solid #3d3d3d;
+    padding: 0px 10px;
+}
+
+.back {
+    border-radius: 5px;
+    color: black;
+    background-color: lightgray;
+    width: 100px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+.back a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    text-align: center;
+}
+.info-section {
+    margin-top: 20px;
+}
+.info-title {
+    font-weight: bold;
+}
+.info-content {
+    margin-left: 20px;
+}
+.moves-list {
+    margin-top: 20px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li {
+    margin-bottom: 5px;
+}

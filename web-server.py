@@ -24,8 +24,28 @@ def index():
     return render_template('index.html', entries=all_data)
 
 @app.route('/data')
-def filter_entries():
+def data():
     return jsonify(all_data)
+
+@app.route('/data/<num>/<name>')
+@app.route('/data/<num>/<name>/<regionOrForm>')
+def data_single(num: str, name: str, regionOrForm=None):
+    return jsonify(get(num, name, regionOrForm))
+
+@app.route('/details/<num>/<name>')
+@app.route('/details/<num>/<name>/<regionOrForm>')
+def details(num: str, name: str, regionOrForm=None):
+    return render_template('details.html', pokemon=get(num, name, regionOrForm))
+
+def get(num: str, name: str, regionOrForm=None):
+    for entry in all_data:
+        if str(entry['num']) == num and entry['name'].lower() == name.lower():
+            form = entry.get('form', '').lower()
+            region = entry.get('region', '').lower()
+            if regionOrForm is None or regionOrForm.lower() == form or regionOrForm.lower() == region:
+                return entry
+
+    return None
 
 if __name__ == '__main__':
     app.run(debug=True)

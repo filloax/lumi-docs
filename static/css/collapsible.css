@@ -1,0 +1,13 @@
+.collapsible.hidden {
+    display: none !important;
+}
+
+.collapsible-button {
+    cursor: pointer;
+}
+.collapsible-button::before {
+    content: "▴ ";
+}
+.collapsible-button.hidden::before {
+    content: "▾ ";
+}
