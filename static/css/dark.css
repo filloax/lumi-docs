@@ -5,6 +5,10 @@ body, h1, table {
     font-family: Arial, sans-serif;
 }
 
+a {
+    color: #ffff4e;
+}
+
 /* Set dark mode background */
 body {
     background-color: #1a1a1a;

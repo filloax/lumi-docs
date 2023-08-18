@@ -9,11 +9,14 @@ addEventListener("load", (event) => {
 
 function fetchData() {
     const myHeaders = new Headers();
-    myHeaders.append('pragma', 'no-cache');
-    myHeaders.append('cache-control', 'no-cache');
+    // myHeaders.append('pragma', 'no-cache');
+    // myHeaders.append('cache-control', 'no-cache');
 
     
-    fetch(`/data`, {cache: "no-store", headers: myHeaders})
+    fetch(`/data`, {
+        // cache: "no-store", 
+        headers: myHeaders,
+    })
         .then(response => { 
             // console.log(response); 
             return response.json() 
@@ -31,7 +34,7 @@ function fetchData() {
 function initDataTables() {
     $('#pokemonTable').DataTable({
         paging: false,
-        searching: true
+        searching: true,
     });
 }
 

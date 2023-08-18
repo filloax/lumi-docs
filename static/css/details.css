@@ -13,24 +13,69 @@ body {
     padding: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
+.back-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
 
 .poke-img {
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
     border-radius: 20px;
+    max-width: 20%;
 }
 
-.types {
+#types {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: auto;
+}
+
+#moves {
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+#abilities {
+    width: 50%;
+    margin-bottom: 40px;
+}
+
+#stats {
+    width: 50%;
+    float: right;
+    margin-bottom: 10px;
+}
+
+#locations {
+    width: 50%;
+    float: right;
+    clear:both;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    border-left: 2px solid #dddddd;
+}
+
+#extra {
+    width: 50%;
+    float: right;
+    clear: both;
+    margin-top: 20px;
+    padding-left: 10px;
+    border-left: 2px solid #dddddd;
 }
 
 .type-container {
     display: flex;
     /* justify-content: space-between; */
     /* margin: auto; */
+}
+.type-container.original {
+    transform: scale(0.8);
+    flex: 0 0 0;
+    margin-right: -20px;
+    /** Make flexbox fit via js */
 }
 
 .type-change-marker {
@@ -61,10 +106,10 @@ body {
     text-align: center;
 }
 .details-ability.ability-luminescent {
-    background-color: #273116;
+    background-color: #4e4b19;
 }
 .details-ability.ability-renegade {
-    background-color: #361616;
+    background-color: #1c3616;
 }
 .details-ability a {
     color: inherit;
@@ -84,6 +129,74 @@ body {
 .moves-list td {
     border:1px solid #3d3d3d;
     padding: 0px 10px;
+}
+
+#stats table {
+    border-collapse: collapse;
+    background-color: #1a1a1a;
+    width: 100%;
+}
+
+.stat-name {
+    font-size: 0.9em;
+    font-weight: 600;
+}
+.stat-row td {
+    padding: 0 8px;
+}
+.stat-row th {
+    padding-right: 10px;
+}
+.stat-row .statbar-container {
+    padding: 2px
+}
+.stat-row .statbar {
+    height: 20px;
+    width: 0px;
+    transition: width 1s ease;
+}
+#stats td,#stats th, #stats tr {
+    border: 2px solid #0f0f0f;
+}
+.stat-row-hp {
+    background-color: #771313;
+}
+.stat-row-atk {
+    background-color: #8b3d05;
+}
+.stat-row-def {
+    background-color: #6d5b14;
+}
+.stat-row-spa {
+    background-color: #142244;
+}
+.stat-row-spd {
+    background-color: #1f3f0f;
+}
+.stat-row-spe {
+    background-color: #491122;
+}
+
+.stat-row-hp .statbar {
+    background-color: #f13e3e;
+}
+.stat-row-atk .statbar {
+    background-color: #e68e50;
+}
+.stat-row-def .statbar {
+    background-color: #ffdf61;
+}
+.stat-row-spa .statbar {
+    background-color: #4675ec;
+}
+.stat-row-spd .statbar {
+    background-color: #85e058;
+}
+.stat-row-spe .statbar {
+    background-color: #ec5180;
+}
+.stat-row-bst .statbar {
+    background-color: #dddddd;
 }
 
 .back {
@@ -122,4 +235,8 @@ ul {
 }
 li {
     margin-bottom: 5px;
+}
+
+a {
+    color: #ffff4e;
 }

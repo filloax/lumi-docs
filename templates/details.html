@@ -10,16 +10,18 @@
         <script type="text/javascript" src="{{ url_for('static', filename='js/details.js') }}"></script>
     </head>
     <body>
-        <div class="pokemon-details">
+        <div class="back-container">
             <div class="back"><a href="/">Back</a></div>
+        </div>
+        <div class="pokemon-details">
             <img class="poke-img" src="{{ url_for('static', filename=pokemon['image']) }}" />
             <h1>
                 <span class="number">{{ pokemon['num'] }}</span> - {{ pokemon['name'] }} {{ pokemon['region'] }} 
                 {% if pokemon['form'] %}({{ pokemon['form'] | capitalize }}){% endif %}
             </h1>
-            <div class="types">
+            <div id="types">
               {% if pokemon['type']['original'] %}
-              <div class="type-container">
+              <div class="type-container original">
                 {% for type in pokemon['type']['original'] %}
                   <div class="details-type type-{{ type.lower()  }}">
                       {{ type }}
@@ -37,7 +39,55 @@
               </div>
             </div>
             <br>
-            <div class="abilities">
+
+            <div id="stats">
+                <table>
+                    <thead>
+                        <tr>
+                            <th colspan="3" title="Stats"><span>Stats</span></a></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for stat in pokemon['stats'] %}
+                        {% set data = pokemon['stats'][stat] %}
+                        {% set value = data['value'] %}
+                        {% set original = data['original'] %}
+                        <tr class="stat-row stat-row-{{stat.lower()}}">
+                            <th title="{{stat}}" class="stat-name">{{stat}}</th>
+                            <td>
+                            {% if original %}
+                                {% set buff_class = "stat-buff" if value > original else "stat-nerf" %}
+                                <span class="tooltip stat-from-{{ data['changed_by'] }} {{ buff_class }}" title="{{ original }}">
+                                {{ value }}
+                                </span>
+                            {% else %}
+                                {{ value }}
+                            {% endif %}
+                            </td>
+                            <td style="width:255px" class="statbar-container">
+                                <div class="statbar" data-value="{{value}}" data-stat="{{stat}}"></div>
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="locations">
+                <h3>Locations</h3>
+                <ul>
+                    {% for location in pokemon["location"] %}
+                    <li>{{ location }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div id="extra">
+                {% set name_for_url = pokemon["name"].replace(" ", "_") %}
+                <a href="https://bulbapedia.bulbagarden.net/wiki/{{ name_for_url }}_(Pok%C3%A9mon)#Game_data">On Bulbapedia</a>
+            </div>
+
+            <div id="abilities">
                 <h3>Abilities</h3>
                 <div class="abilities-container">
                 {% for ability in pokemon['abilities'] %}
@@ -50,59 +100,59 @@
                 {% endfor %}
                 </div>
             </div>
-            <!-- Add more info sections here as needed -->
 
-            <h3>Moves</h3>
-            <div class="moves-list">
-                <h4 class="collapsible-button">Level up</h4>
-                <table class="collapsible">
-                    <thead>
-                        <tr>
-                            <td>Level</td>
-                            <td>Move</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for move in pokemon['moves']['level'] %}
-                        {% set level = move['level'] if move['level'] != 0 else 'Evo' %}
-                        <tr><td class="number move-level">{{ level }}</td><td class="move">{{ move['move'] }}</td></tr>
-                        {% endfor %}
-                    </tbody>
-                </table>
+            <div id="moves">
+                <h3>Moves</h3>
+                <div class="moves-list">
+                    <h4 class="collapsible-button">Level up</h4>
+                    <table class="collapsible">
+                        <thead>
+                            <tr>
+                                <td>Level</td>
+                                <td>Move</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for move in pokemon['moves']['level'] %}
+                            {% set level = move['level'] if move['level'] != 0 else 'Evo' %}
+                            <tr><td class="number move-level">{{ level }}</td><td class="move">{{ move['move'] }}</td></tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="moves-list">
+                    <h4 class="collapsible-button hidden">TM</h4>
+                    <table class="collapsible hidden">
+                        <thead>
+                            <tr>
+                                <td>TM</td>
+                                <td>Move</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for move in pokemon['moves']['tm'] %}
+                            <tr><td>TM{{ '%02d'|format(move['tm']) }}</td><td class="move">{{ move['move'] }}</td>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+                <div class="moves-list">
+                    <h4 class="collapsible-button hidden">Egg Moves</h4>
+                    <table class="collapsible hidden">
+                        <thead>
+                            <tr>
+                                <td>TM</td>
+                                <td>Move</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for move in pokemon['moves']['egg'] %}
+                            <td class="move">{{ move }}</td>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
             </div>
-            <div class="moves-list">
-                <h4 class="collapsible-button hidden">TM</h4>
-                <table class="collapsible hidden">
-                    <thead>
-                        <tr>
-                            <td>TM</td>
-                            <td>Move</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for move in pokemon['moves']['tm'] %}
-                        <tr><td>TM{{ '%02d'|format(move['tm']) }}</td><td class="move">{{ move['move'] }}</td>
-                        {% endfor %}
-                    </tbody>
-                </table>
-            </div>
-            <div class="moves-list">
-                <h4 class="collapsible-button hidden">Egg Moves</h4>
-                <table class="collapsible hidden">
-                    <thead>
-                        <tr>
-                            <td>TM</td>
-                            <td>Move</td>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for move in pokemon['moves']['egg'] %}
-                        <td class="move">{{ move }}</td>
-                        {% endfor %}
-                    </tbody>
-                </table>
-            </div>
-            <!-- Add more move lists or other sections here -->
         </div>
     </body>
 </html>
