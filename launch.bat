@@ -1,0 +1,1 @@
+python "D:\Programming\pokemon\lumi-docs\web-server.py" --open-in-browser

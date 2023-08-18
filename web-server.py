@@ -1,6 +1,12 @@
 from flask import Flask, render_template, request, jsonify
 import json
 import os
+import webbrowser
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--open-in-browser", action='store_true')
+parser.add_argument("--debug", action='store_true')
 
 app = Flask(__name__)
 
@@ -48,4 +54,9 @@ def get(num: str, name: str, regionOrForm=None):
     return None
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    args = parser.parse_args()
+
+    if args.open_in_browser:
+        webbrowser.open('http://localhost:5000')
+
+    app.run(debug=args.debug)
